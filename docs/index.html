@@ -263,6 +263,10 @@
     border-bottom: 1px solid #2a1e0a;
     text-align: center;
   }
+  .detail-table .row-num {
+    color: #826412;
+    font-weight: 700;
+  }
   .detail-table tbody tr.top-result {
     background: #2a2200;
   }
@@ -348,6 +352,7 @@
     <table class="detail-table">
       <thead>
         <tr>
+          <th style="width:30px">#</th>
           <th>トーナメント</th>
           <th>着順</th>
           <th>エントリー数</th>
@@ -442,10 +447,11 @@ function showDetail(player, rank) {
   const tbody = document.getElementById('detail-body');
   tbody.innerHTML = '';
 
-  const topOnly = player.results.filter(r => topIds.has(r._index));
+  const topOnly = player.results
+    .filter(r => topIds.has(r._index) && r.points > 0);
   topOnly.sort((a, b) => b.points - a.points);
 
-  topOnly.forEach((r) => {
+  topOnly.forEach((r, i) => {
     const tr = document.createElement('tr');
     tr.className = 'top-result';
 
@@ -455,6 +461,7 @@ function showDetail(player, rank) {
       .trim();
 
     tr.innerHTML = `
+      <td class="row-num">${i + 1}</td>
       <td style="text-align:left">${escHtml(tname)}</td>
       <td>${rankStr}</td>
       <td>${r.total_entries}</td>
