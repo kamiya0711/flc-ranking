@@ -442,14 +442,10 @@ function showDetail(player, rank) {
   const tbody = document.getElementById('detail-body');
   tbody.innerHTML = '';
 
-  const sorted = [...player.results].sort((a, b) => {
-    if (!a.date) return 1;
-    if (!b.date) return -1;
-    return a.date.localeCompare(b.date);
-  });
+  const topOnly = player.results.filter(r => topIds.has(r._index));
+  topOnly.sort((a, b) => b.points - a.points);
 
-  sorted.forEach((r) => {
-    if (!topIds.has(r._index)) return;
+  topOnly.forEach((r) => {
     const tr = document.createElement('tr');
     tr.className = 'top-result';
 
