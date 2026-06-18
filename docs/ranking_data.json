@@ -1,5 +1,5 @@
 {
-  "calc_date": "2026年06月17日",
+  "calc_date": "2026年06月18日",
   "season_start": "04/01～06/30",
   "top_n_results": 10,
   "eligible_rank": 15,
@@ -1372,7 +1372,7 @@
       "total_points": 338.4,
       "count_1st": 5,
       "best_score": 67.5,
-      "appearances": 37,
+      "appearances": 38,
       "results": [
         {
           "_index": 0,
@@ -1706,6 +1706,15 @@
           "rank": 6,
           "total_entries": 25,
           "points": 12.5
+        },
+        {
+          "_index": 37,
+          "tournament_id": "2244626",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "06/18",
+          "rank": 2,
+          "total_entries": 16,
+          "points": 14.4
         }
       ],
       "top_result_indices": [
@@ -2765,7 +2774,7 @@
       "total_points": 247.9,
       "count_1st": 2,
       "best_score": 41.6,
-      "appearances": 26,
+      "appearances": 27,
       "results": [
         {
           "_index": 0,
@@ -3000,6 +3009,15 @@
           "rank": 5,
           "total_entries": 28,
           "points": 16.8
+        },
+        {
+          "_index": 26,
+          "tournament_id": "2244626",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "06/18",
+          "rank": 4,
+          "total_entries": 16,
+          "points": 11.2
         }
       ],
       "top_result_indices": [
@@ -3021,7 +3039,7 @@
       "total_points": 240.8,
       "count_1st": 4,
       "best_score": 37.8,
-      "appearances": 44,
+      "appearances": 45,
       "results": [
         {
           "_index": 0,
@@ -3417,6 +3435,15 @@
           "date": "06/16",
           "rank": 13,
           "total_entries": 28,
+          "points": 0.0
+        },
+        {
+          "_index": 44,
+          "tournament_id": "2244626",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "06/18",
+          "rank": 8,
+          "total_entries": 16,
           "points": 0.0
         }
       ],
@@ -4468,7 +4495,7 @@
       "total_points": 220.3,
       "count_1st": 2,
       "best_score": 30.0,
-      "appearances": 51,
+      "appearances": 52,
       "results": [
         {
           "_index": 0,
@@ -4928,6 +4955,15 @@
           "rank": 12,
           "total_entries": 25,
           "points": 0.0
+        },
+        {
+          "_index": 51,
+          "tournament_id": "2244626",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "06/18",
+          "rank": 3,
+          "total_entries": 16,
+          "points": 12.8
         }
       ],
       "top_result_indices": [
@@ -5838,7 +5874,7 @@
       "total_points": 180.5,
       "count_1st": 4,
       "best_score": 35.0,
-      "appearances": 25,
+      "appearances": 26,
       "results": [
         {
           "_index": 0,
@@ -6063,6 +6099,15 @@
           "date": "06/17",
           "rank": 9,
           "total_entries": 25,
+          "points": 0.0
+        },
+        {
+          "_index": 25,
+          "tournament_id": "2244626",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "06/18",
+          "rank": 7,
+          "total_entries": 16,
           "points": 0.0
         }
       ],
@@ -7108,7 +7153,7 @@
       "total_points": 129.5,
       "count_1st": 2,
       "best_score": 26.0,
-      "appearances": 16,
+      "appearances": 17,
       "results": [
         {
           "_index": 0,
@@ -7253,6 +7298,15 @@
           "rank": 6,
           "total_entries": 22,
           "points": 11.0
+        },
+        {
+          "_index": 16,
+          "tournament_id": "2244626",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "06/18",
+          "rank": 10,
+          "total_entries": 16,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
@@ -10886,6 +10940,78 @@
       ]
     },
     {
+      "id": "552451",
+      "nickname": "Hiro",
+      "total_points": 70.3,
+      "count_1st": 1,
+      "best_score": 27.9,
+      "appearances": 6,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2096683",
+          "tournament_name": "17:30~20:30\t🔥🔥保証割れトーナメント【3K】🔥🔥",
+          "date": "04/29",
+          "rank": 7,
+          "total_entries": 21,
+          "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2169091",
+          "tournament_name": "18:30~21:30\t【JP10万】🎰THE SUPER JACKPOT🎰【2K】",
+          "date": "05/18",
+          "rank": 2,
+          "total_entries": 31,
+          "points": 27.9
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2195406",
+          "tournament_name": "18:30~22:30\t【最低40,000保証】🔥Deep Stackトーナメント🔥【2Ｋ】",
+          "date": "05/28",
+          "rank": 3,
+          "total_entries": 33,
+          "points": 26.4
+        },
+        {
+          "_index": 3,
+          "tournament_id": "2217064",
+          "tournament_name": "18:30~21:30\t【JP10万】🎰THE SUPER JACKPOT🎰【2K】",
+          "date": "06/10",
+          "rank": 7,
+          "total_entries": 22,
+          "points": 0.0
+        },
+        {
+          "_index": 4,
+          "tournament_id": "2244624",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚】Deep Stackトーナメント【2Ｋ】",
+          "date": "06/11",
+          "rank": 11,
+          "total_entries": 34,
+          "points": 0.0
+        },
+        {
+          "_index": 5,
+          "tournament_id": "2244626",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "06/18",
+          "rank": 1,
+          "total_entries": 16,
+          "points": 16.0
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ]
+    },
+    {
       "id": "152507",
       "nickname": "MYZK（ゆうやん）",
       "total_points": 67.4,
@@ -11516,68 +11642,6 @@
       ]
     },
     {
-      "id": "552451",
-      "nickname": "Hiro",
-      "total_points": 54.3,
-      "count_1st": 0,
-      "best_score": 27.9,
-      "appearances": 5,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2096683",
-          "tournament_name": "17:30~20:30\t🔥🔥保証割れトーナメント【3K】🔥🔥",
-          "date": "04/29",
-          "rank": 7,
-          "total_entries": 21,
-          "points": 0.0
-        },
-        {
-          "_index": 1,
-          "tournament_id": "2169091",
-          "tournament_name": "18:30~21:30\t【JP10万】🎰THE SUPER JACKPOT🎰【2K】",
-          "date": "05/18",
-          "rank": 2,
-          "total_entries": 31,
-          "points": 27.9
-        },
-        {
-          "_index": 2,
-          "tournament_id": "2195406",
-          "tournament_name": "18:30~22:30\t【最低40,000保証】🔥Deep Stackトーナメント🔥【2Ｋ】",
-          "date": "05/28",
-          "rank": 3,
-          "total_entries": 33,
-          "points": 26.4
-        },
-        {
-          "_index": 3,
-          "tournament_id": "2217064",
-          "tournament_name": "18:30~21:30\t【JP10万】🎰THE SUPER JACKPOT🎰【2K】",
-          "date": "06/10",
-          "rank": 7,
-          "total_entries": 22,
-          "points": 0.0
-        },
-        {
-          "_index": 4,
-          "tournament_id": "2244624",
-          "tournament_name": "18:30~21:30\t【SPADIE 12枚】Deep Stackトーナメント【2Ｋ】",
-          "date": "06/11",
-          "rank": 11,
-          "total_entries": 34,
-          "points": 0.0
-        }
-      ],
-      "top_result_indices": [
-        0,
-        1,
-        2,
-        3,
-        4
-      ]
-    },
-    {
       "id": "502231",
       "nickname": "あす",
       "total_points": 53.8,
@@ -11657,7 +11721,7 @@
       "total_points": 51.0,
       "count_1st": 0,
       "best_score": 21.6,
-      "appearances": 11,
+      "appearances": 12,
       "results": [
         {
           "_index": 0,
@@ -11757,6 +11821,15 @@
           "rank": 2,
           "total_entries": 24,
           "points": 21.6
+        },
+        {
+          "_index": 11,
+          "tournament_id": "2244626",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "06/18",
+          "rank": 9,
+          "total_entries": 16,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
@@ -13500,6 +13573,48 @@
       ]
     },
     {
+      "id": "642618",
+      "nickname": "koba28",
+      "total_points": 29.4,
+      "count_1st": 0,
+      "best_score": 19.8,
+      "appearances": 3,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2217068",
+          "tournament_name": "18:30~21:30\t【最低40,000保証】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "06/05",
+          "rank": 10,
+          "total_entries": 14,
+          "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2218503",
+          "tournament_name": "12:30~15:30\t【土日祝限定】超フリーロール【40,000保証】",
+          "date": "06/14",
+          "rank": 2,
+          "total_entries": 22,
+          "points": 19.8
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2244626",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "06/18",
+          "rank": 5,
+          "total_entries": 16,
+          "points": 9.6
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
       "id": "425188",
       "nickname": "からばこくん",
       "total_points": 29.0,
@@ -13677,6 +13792,38 @@
       ],
       "top_result_indices": [
         0
+      ]
+    },
+    {
+      "id": "204012",
+      "nickname": "KH",
+      "total_points": 27.2,
+      "count_1st": 0,
+      "best_score": 19.2,
+      "appearances": 2,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2244625",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚】Deep Stackトーナメント【2Ｋ】",
+          "date": "06/15",
+          "rank": 3,
+          "total_entries": 24,
+          "points": 19.2
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2244626",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "06/18",
+          "rank": 6,
+          "total_entries": 16,
+          "points": 8.0
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1
       ]
     },
     {
@@ -14286,38 +14433,6 @@
       ]
     },
     {
-      "id": "642618",
-      "nickname": "koba28",
-      "total_points": 19.8,
-      "count_1st": 0,
-      "best_score": 19.8,
-      "appearances": 2,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2217068",
-          "tournament_name": "18:30~21:30\t【最低40,000保証】🔥MEGA STACK CUP🔥【2Ｋ】",
-          "date": "06/05",
-          "rank": 10,
-          "total_entries": 14,
-          "points": 0.0
-        },
-        {
-          "_index": 1,
-          "tournament_id": "2218503",
-          "tournament_name": "12:30~15:30\t【土日祝限定】超フリーロール【40,000保証】",
-          "date": "06/14",
-          "rank": 2,
-          "total_entries": 22,
-          "points": 19.8
-        }
-      ],
-      "top_result_indices": [
-        0,
-        1
-      ]
-    },
-    {
       "id": "152344",
       "nickname": "にこ",
       "total_points": 19.8,
@@ -14473,28 +14588,6 @@
         0,
         1,
         2
-      ]
-    },
-    {
-      "id": "204012",
-      "nickname": "KH",
-      "total_points": 19.2,
-      "count_1st": 0,
-      "best_score": 19.2,
-      "appearances": 1,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2244625",
-          "tournament_name": "18:30~21:30\t【SPADIE 12枚】Deep Stackトーナメント【2Ｋ】",
-          "date": "06/15",
-          "rank": 3,
-          "total_entries": 24,
-          "points": 19.2
-        }
-      ],
-      "top_result_indices": [
-        0
       ]
     },
     {
