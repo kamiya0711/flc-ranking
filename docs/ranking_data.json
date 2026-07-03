@@ -1,17 +1,49 @@
 {
-  "calc_date": "2026年07月02日",
+  "calc_date": "2026年07月03日",
   "season_start": "07/01～09/30",
   "season_number": 2,
   "top_n_results": 10,
   "eligible_rank": 15,
   "players": [
     {
+      "id": "157854",
+      "nickname": "シブコ",
+      "total_points": 60.2,
+      "count_1st": 1,
+      "best_score": 49.0,
+      "appearances": 2,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2274694",
+          "tournament_name": "18:30~22:30\t🏆🍎🍇 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
+          "date": "07/02",
+          "rank": 1,
+          "total_entries": 49,
+          "points": 49.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2274761",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "07/03",
+          "rank": 4,
+          "total_entries": 16,
+          "points": 11.2
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1
+      ]
+    },
+    {
       "id": "553534",
       "nickname": "リ",
       "total_points": 59.7,
       "count_1st": 0,
       "best_score": 44.1,
-      "appearances": 2,
+      "appearances": 3,
       "results": [
         {
           "_index": 0,
@@ -30,11 +62,21 @@
           "rank": 2,
           "total_entries": 49,
           "points": 44.1
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2274761",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "07/03",
+          "rank": 8,
+          "total_entries": 16,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
         0,
-        1
+        1,
+        2
       ]
     },
     {
@@ -70,28 +112,6 @@
       ]
     },
     {
-      "id": "157854",
-      "nickname": "シブコ",
-      "total_points": 49.0,
-      "count_1st": 1,
-      "best_score": 49.0,
-      "appearances": 1,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2274694",
-          "tournament_name": "18:30~22:30\t🏆🍎🍇 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
-          "date": "07/02",
-          "rank": 1,
-          "total_entries": 49,
-          "points": 49.0
-        }
-      ],
-      "top_result_indices": [
-        0
-      ]
-    },
-    {
       "id": "435758",
       "nickname": "くら",
       "total_points": 39.2,
@@ -116,10 +136,10 @@
     {
       "id": "271026",
       "nickname": "TAKAVODKA",
-      "total_points": 29.4,
+      "total_points": 37.4,
       "count_1st": 0,
       "best_score": 29.4,
-      "appearances": 2,
+      "appearances": 3,
       "results": [
         {
           "_index": 0,
@@ -138,11 +158,21 @@
           "rank": 5,
           "total_entries": 49,
           "points": 29.4
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2274761",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "07/03",
+          "rank": 6,
+          "total_entries": 16,
+          "points": 8.0
         }
       ],
       "top_result_indices": [
         0,
-        1
+        1,
+        2
       ]
     },
     {
@@ -244,6 +274,50 @@
       ]
     },
     {
+      "id": "27750",
+      "nickname": "sky",
+      "total_points": 16.0,
+      "count_1st": 1,
+      "best_score": 16.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2274761",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "07/03",
+          "rank": 1,
+          "total_entries": 16,
+          "points": 16.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "549267",
+      "nickname": "みわ",
+      "total_points": 14.4,
+      "count_1st": 0,
+      "best_score": 14.4,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2274761",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "07/03",
+          "rank": 2,
+          "total_entries": 16,
+          "points": 14.4
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
       "id": "632219",
       "nickname": "たに",
       "total_points": 13.0,
@@ -273,6 +347,50 @@
       "top_result_indices": [
         0,
         1
+      ]
+    },
+    {
+      "id": "456456",
+      "nickname": "拓朗",
+      "total_points": 12.8,
+      "count_1st": 0,
+      "best_score": 12.8,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2274761",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "07/03",
+          "rank": 3,
+          "total_entries": 16,
+          "points": 12.8
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "549268",
+      "nickname": "こ。",
+      "total_points": 9.6,
+      "count_1st": 0,
+      "best_score": 9.6,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2274761",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "07/03",
+          "rank": 5,
+          "total_entries": 16,
+          "points": 9.6
+        }
+      ],
+      "top_result_indices": [
+        0
       ]
     },
     {
@@ -325,7 +443,7 @@
       "total_points": 0.0,
       "count_1st": 0,
       "best_score": 0.0,
-      "appearances": 1,
+      "appearances": 2,
       "results": [
         {
           "_index": 0,
@@ -335,10 +453,20 @@
           "rank": 10,
           "total_entries": 49,
           "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2274761",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "07/03",
+          "rank": 11,
+          "total_entries": 16,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
-        0
+        0,
+        1
       ]
     },
     {
@@ -410,6 +538,72 @@
           "date": "07/02",
           "rank": 13,
           "total_entries": 49,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "467714",
+      "nickname": "ドンクーコング",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2274761",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "07/03",
+          "rank": 7,
+          "total_entries": 16,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "292905",
+      "nickname": "とっととやめ太郎",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2274761",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "07/03",
+          "rank": 9,
+          "total_entries": 16,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "259826",
+      "nickname": "ゆーじ",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2274761",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "07/03",
+          "rank": 10,
+          "total_entries": 16,
           "points": 0.0
         }
       ],
