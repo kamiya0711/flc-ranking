@@ -1,5 +1,5 @@
 {
-  "calc_date": "2026年08月01日",
+  "calc_date": "2026年08月02日",
   "season_start": "07/01～09/30",
   "season_number": 2,
   "top_n_results": 10,
@@ -415,7 +415,7 @@
       "total_points": 229.4,
       "count_1st": 4,
       "best_score": 40.5,
-      "appearances": 24,
+      "appearances": 25,
       "results": [
         {
           "_index": 0,
@@ -632,6 +632,15 @@
           "rank": 1,
           "total_entries": 23,
           "points": 23.0
+        },
+        {
+          "_index": 24,
+          "tournament_id": "2278258",
+          "tournament_name": "18:30~21:30\t💥【最低40,000保証】超保証トーナメント【2K】💥",
+          "date": "08/02",
+          "rank": 14,
+          "total_entries": 29,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
@@ -1618,7 +1627,7 @@
       "total_points": 180.0,
       "count_1st": 1,
       "best_score": 45.0,
-      "appearances": 14,
+      "appearances": 15,
       "results": [
         {
           "_index": 0,
@@ -1744,6 +1753,15 @@
           "date": "07/30",
           "rank": 8,
           "total_entries": 24,
+          "points": 0.0
+        },
+        {
+          "_index": 14,
+          "tournament_id": "2278258",
+          "tournament_name": "18:30~21:30\t💥【最低40,000保証】超保証トーナメント【2K】💥",
+          "date": "08/02",
+          "rank": 11,
+          "total_entries": 29,
           "points": 0.0
         }
       ],
@@ -2615,7 +2633,7 @@
       "total_points": 111.0,
       "count_1st": 0,
       "best_score": 56.7,
-      "appearances": 18,
+      "appearances": 19,
       "results": [
         {
           "_index": 0,
@@ -2778,6 +2796,15 @@
           "rank": 10,
           "total_entries": 23,
           "points": 0.0
+        },
+        {
+          "_index": 18,
+          "tournament_id": "2278258",
+          "tournament_name": "18:30~21:30\t💥【最低40,000保証】超保証トーナメント【2K】💥",
+          "date": "08/02",
+          "rank": 16,
+          "total_entries": 29,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
@@ -2911,7 +2938,7 @@
       "total_points": 101.6,
       "count_1st": 0,
       "best_score": 22.5,
-      "appearances": 11,
+      "appearances": 12,
       "results": [
         {
           "_index": 0,
@@ -3011,6 +3038,15 @@
           "rank": 14,
           "total_entries": 23,
           "points": 0.0
+        },
+        {
+          "_index": 11,
+          "tournament_id": "2278258",
+          "tournament_name": "18:30~21:30\t💥【最低40,000保証】超保証トーナメント【2K】💥",
+          "date": "08/02",
+          "rank": 8,
+          "total_entries": 29,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
@@ -3024,6 +3060,98 @@
         7,
         9,
         10
+      ]
+    },
+    {
+      "id": "651023",
+      "nickname": "むろし",
+      "total_points": 80.8,
+      "count_1st": 0,
+      "best_score": 23.2,
+      "appearances": 8,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2264811",
+          "tournament_name": "17:30~20:30\t【JOPT９枚保証】🏆JOPTサテライト🏆【3位まで一撃3枚!!】",
+          "date": "07/04",
+          "rank": 6,
+          "total_entries": 21,
+          "points": 10.5
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2278253",
+          "tournament_name": "13:00~16:00\t【SPADIE 12枚サテライト】Deep Stackトーナメント【2Ｋ】",
+          "date": "07/19",
+          "rank": 2,
+          "total_entries": 15,
+          "points": 13.5
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2278260",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "07/23",
+          "rank": 7,
+          "total_entries": 22,
+          "points": 0.0
+        },
+        {
+          "_index": 3,
+          "tournament_id": "2278261",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】Deep Stackトーナメント【2Ｋ】",
+          "date": "07/24",
+          "rank": 6,
+          "total_entries": 24,
+          "points": 12.0
+        },
+        {
+          "_index": 4,
+          "tournament_id": "2278266",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】Deep Stackトーナメント【2Ｋ】",
+          "date": "07/30",
+          "rank": 2,
+          "total_entries": 24,
+          "points": 21.6
+        },
+        {
+          "_index": 5,
+          "tournament_id": "2277781",
+          "tournament_name": "17:30~20:30\t【SPADIE 18枚サテライト】🏆SPADIE開催直前トーナメント🏆【上位9名保証】",
+          "date": "08/01",
+          "rank": 8,
+          "total_entries": 23,
+          "points": 0.0
+        },
+        {
+          "_index": 6,
+          "tournament_id": "2278313",
+          "tournament_name": "13:30~16:00\t【SPADIE 12枚サテライト】Deep Stackトーナメント【2Ｋ】",
+          "date": "08/01",
+          "rank": 9,
+          "total_entries": 15,
+          "points": 0.0
+        },
+        {
+          "_index": 7,
+          "tournament_id": "2278258",
+          "tournament_name": "18:30~21:30\t💥【最低40,000保証】超保証トーナメント【2K】💥",
+          "date": "08/02",
+          "rank": 3,
+          "total_entries": 29,
+          "points": 23.2
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7
       ]
     },
     {
@@ -3747,7 +3875,7 @@
       "total_points": 58.4,
       "count_1st": 1,
       "best_score": 44.0,
-      "appearances": 5,
+      "appearances": 6,
       "results": [
         {
           "_index": 0,
@@ -3793,85 +3921,14 @@
           "rank": 1,
           "total_entries": 44,
           "points": 44.0
-        }
-      ],
-      "top_result_indices": [
-        0,
-        1,
-        2,
-        3,
-        4
-      ]
-    },
-    {
-      "id": "651023",
-      "nickname": "むろし",
-      "total_points": 57.6,
-      "count_1st": 0,
-      "best_score": 21.6,
-      "appearances": 7,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2264811",
-          "tournament_name": "17:30~20:30\t【JOPT９枚保証】🏆JOPTサテライト🏆【3位まで一撃3枚!!】",
-          "date": "07/04",
-          "rank": 6,
-          "total_entries": 21,
-          "points": 10.5
-        },
-        {
-          "_index": 1,
-          "tournament_id": "2278253",
-          "tournament_name": "13:00~16:00\t【SPADIE 12枚サテライト】Deep Stackトーナメント【2Ｋ】",
-          "date": "07/19",
-          "rank": 2,
-          "total_entries": 15,
-          "points": 13.5
-        },
-        {
-          "_index": 2,
-          "tournament_id": "2278260",
-          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】🔥MEGA STACK CUP🔥【2Ｋ】",
-          "date": "07/23",
-          "rank": 7,
-          "total_entries": 22,
-          "points": 0.0
-        },
-        {
-          "_index": 3,
-          "tournament_id": "2278261",
-          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】Deep Stackトーナメント【2Ｋ】",
-          "date": "07/24",
-          "rank": 6,
-          "total_entries": 24,
-          "points": 12.0
-        },
-        {
-          "_index": 4,
-          "tournament_id": "2278266",
-          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】Deep Stackトーナメント【2Ｋ】",
-          "date": "07/30",
-          "rank": 2,
-          "total_entries": 24,
-          "points": 21.6
         },
         {
           "_index": 5,
-          "tournament_id": "2277781",
-          "tournament_name": "17:30~20:30\t【SPADIE 18枚サテライト】🏆SPADIE開催直前トーナメント🏆【上位9名保証】",
-          "date": "08/01",
-          "rank": 8,
-          "total_entries": 23,
-          "points": 0.0
-        },
-        {
-          "_index": 6,
-          "tournament_id": "2278313",
-          "tournament_name": "13:30~16:00\t【SPADIE 12枚サテライト】Deep Stackトーナメント【2Ｋ】",
-          "date": "08/01",
-          "rank": 9,
-          "total_entries": 15,
+          "tournament_id": "2278258",
+          "tournament_name": "18:30~21:30\t💥【最低40,000保証】超保証トーナメント【2K】💥",
+          "date": "08/02",
+          "rank": 13,
+          "total_entries": 29,
           "points": 0.0
         }
       ],
@@ -3881,8 +3938,7 @@
         2,
         3,
         4,
-        5,
-        6
+        5
       ]
     },
     {
@@ -4470,6 +4526,48 @@
       ]
     },
     {
+      "id": "557484",
+      "nickname": "みのりてぃくろさきっ！",
+      "total_points": 29.0,
+      "count_1st": 1,
+      "best_score": 29.0,
+      "appearances": 3,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2278259",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "07/21",
+          "rank": 13,
+          "total_entries": 45,
+          "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2277796",
+          "tournament_name": "18:30~21:30\t🏆🍎🍇 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
+          "date": "07/31",
+          "rank": 9,
+          "total_entries": 25,
+          "points": 0.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2278258",
+          "tournament_name": "18:30~21:30\t💥【最低40,000保証】超保証トーナメント【2K】💥",
+          "date": "08/02",
+          "rank": 1,
+          "total_entries": 29,
+          "points": 29.0
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
       "id": "209778",
       "nickname": "Nao",
       "total_points": 27.0,
@@ -4499,6 +4597,28 @@
       "top_result_indices": [
         0,
         1
+      ]
+    },
+    {
+      "id": "659861",
+      "nickname": "鈴木豪樹",
+      "total_points": 26.1,
+      "count_1st": 0,
+      "best_score": 26.1,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2278258",
+          "tournament_name": "18:30~21:30\t💥【最低40,000保証】超保証トーナメント【2K】💥",
+          "date": "08/02",
+          "rank": 2,
+          "total_entries": 29,
+          "points": 26.1
+        }
+      ],
+      "top_result_indices": [
+        0
       ]
     },
     {
@@ -4686,6 +4806,58 @@
       ]
     },
     {
+      "id": "539596",
+      "nickname": "鈴木",
+      "total_points": 20.3,
+      "count_1st": 0,
+      "best_score": 20.3,
+      "appearances": 4,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2262317",
+          "tournament_name": "17:00~22:30\t👑🎂 MASATO祝祭 ～店長就任＆BIRTHDAY～ 🎂👑",
+          "date": "07/11",
+          "rank": 7,
+          "total_entries": 132,
+          "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2277801",
+          "tournament_name": "13:00~16:00\t【SPADIE 12枚サテライト】Deep Stackトーナメント【2Ｋ】",
+          "date": "07/11",
+          "rank": 16,
+          "total_entries": 31,
+          "points": 0.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2264819",
+          "tournament_name": "17:30~20:30\t【２位まで保証】Switch 2 トーナメント",
+          "date": "07/20",
+          "rank": 10,
+          "total_entries": 35,
+          "points": 0.0
+        },
+        {
+          "_index": 3,
+          "tournament_id": "2278258",
+          "tournament_name": "18:30~21:30\t💥【最低40,000保証】超保証トーナメント【2K】💥",
+          "date": "08/02",
+          "rank": 4,
+          "total_entries": 29,
+          "points": 20.3
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
       "id": "258143",
       "nickname": "凸凹",
       "total_points": 20.3,
@@ -4861,6 +5033,28 @@
       "top_result_indices": [
         0,
         1
+      ]
+    },
+    {
+      "id": "659862",
+      "nickname": "木村竜堂",
+      "total_points": 17.4,
+      "count_1st": 0,
+      "best_score": 17.4,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2278258",
+          "tournament_name": "18:30~21:30\t💥【最低40,000保証】超保証トーナメント【2K】💥",
+          "date": "08/02",
+          "rank": 5,
+          "total_entries": 29,
+          "points": 17.4
+        }
+      ],
+      "top_result_indices": [
+        0
       ]
     },
     {
@@ -5141,6 +5335,28 @@
           "rank": 4,
           "total_entries": 21,
           "points": 14.7
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "488856",
+      "nickname": "mogi",
+      "total_points": 14.5,
+      "count_1st": 0,
+      "best_score": 14.5,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2278258",
+          "tournament_name": "18:30~21:30\t💥【最低40,000保証】超保証トーナメント【2K】💥",
+          "date": "08/02",
+          "rank": 6,
+          "total_entries": 29,
+          "points": 14.5
         }
       ],
       "top_result_indices": [
@@ -5507,7 +5723,7 @@
       "total_points": 10.5,
       "count_1st": 0,
       "best_score": 10.5,
-      "appearances": 7,
+      "appearances": 8,
       "results": [
         {
           "_index": 0,
@@ -5571,6 +5787,15 @@
           "rank": 13,
           "total_entries": 23,
           "points": 0.0
+        },
+        {
+          "_index": 7,
+          "tournament_id": "2278258",
+          "tournament_name": "18:30~21:30\t💥【最低40,000保証】超保証トーナメント【2K】💥",
+          "date": "08/02",
+          "rank": 7,
+          "total_entries": 29,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
@@ -5580,7 +5805,8 @@
         3,
         4,
         5,
-        6
+        6,
+        7
       ]
     },
     {
@@ -5695,7 +5921,7 @@
       "total_points": 9.0,
       "count_1st": 0,
       "best_score": 9.0,
-      "appearances": 2,
+      "appearances": 3,
       "results": [
         {
           "_index": 0,
@@ -5714,11 +5940,21 @@
           "rank": 5,
           "total_entries": 15,
           "points": 9.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2278258",
+          "tournament_name": "18:30~21:30\t💥【最低40,000保証】超保証トーナメント【2K】💥",
+          "date": "08/02",
+          "rank": 9,
+          "total_entries": 29,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
         0,
-        1
+        1,
+        2
       ]
     },
     {
@@ -5967,48 +6203,6 @@
       "top_result_indices": [
         0,
         1
-      ]
-    },
-    {
-      "id": "539596",
-      "nickname": "鈴木",
-      "total_points": 0.0,
-      "count_1st": 0,
-      "best_score": 0.0,
-      "appearances": 3,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2262317",
-          "tournament_name": "17:00~22:30\t👑🎂 MASATO祝祭 ～店長就任＆BIRTHDAY～ 🎂👑",
-          "date": "07/11",
-          "rank": 7,
-          "total_entries": 132,
-          "points": 0.0
-        },
-        {
-          "_index": 1,
-          "tournament_id": "2277801",
-          "tournament_name": "13:00~16:00\t【SPADIE 12枚サテライト】Deep Stackトーナメント【2Ｋ】",
-          "date": "07/11",
-          "rank": 16,
-          "total_entries": 31,
-          "points": 0.0
-        },
-        {
-          "_index": 2,
-          "tournament_id": "2264819",
-          "tournament_name": "17:30~20:30\t【２位まで保証】Switch 2 トーナメント",
-          "date": "07/20",
-          "rank": 10,
-          "total_entries": 35,
-          "points": 0.0
-        }
-      ],
-      "top_result_indices": [
-        0,
-        1,
-        2
       ]
     },
     {
@@ -6409,7 +6603,7 @@
       "total_points": 0.0,
       "count_1st": 0,
       "best_score": 0.0,
-      "appearances": 1,
+      "appearances": 2,
       "results": [
         {
           "_index": 0,
@@ -6419,10 +6613,20 @@
           "rank": 8,
           "total_entries": 43,
           "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2278258",
+          "tournament_name": "18:30~21:30\t💥【最低40,000保証】超保証トーナメント【2K】💥",
+          "date": "08/02",
+          "rank": 17,
+          "total_entries": 29,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
-        0
+        0,
+        1
       ]
     },
     {
@@ -6676,38 +6880,6 @@
       ]
     },
     {
-      "id": "557484",
-      "nickname": "みのりてぃくろさきっ！",
-      "total_points": 0.0,
-      "count_1st": 0,
-      "best_score": 0.0,
-      "appearances": 2,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2278259",
-          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】🔥MEGA STACK CUP🔥【2Ｋ】",
-          "date": "07/21",
-          "rank": 13,
-          "total_entries": 45,
-          "points": 0.0
-        },
-        {
-          "_index": 1,
-          "tournament_id": "2277796",
-          "tournament_name": "18:30~21:30\t🏆🍎🍇 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
-          "date": "07/31",
-          "rank": 9,
-          "total_entries": 25,
-          "points": 0.0
-        }
-      ],
-      "top_result_indices": [
-        0,
-        1
-      ]
-    },
-    {
       "id": "327857",
       "nickname": "かさ",
       "total_points": 0.0,
@@ -6808,6 +6980,72 @@
           "date": "07/25",
           "rank": 17,
           "total_entries": 36,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "411434",
+      "nickname": "shoki",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2278258",
+          "tournament_name": "18:30~21:30\t💥【最低40,000保証】超保証トーナメント【2K】💥",
+          "date": "08/02",
+          "rank": 10,
+          "total_entries": 29,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "600323",
+      "nickname": "おおの@SANCTUARY松戸店",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2278258",
+          "tournament_name": "18:30~21:30\t💥【最低40,000保証】超保証トーナメント【2K】💥",
+          "date": "08/02",
+          "rank": 12,
+          "total_entries": 29,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "651971",
+      "nickname": "utopia",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2278258",
+          "tournament_name": "18:30~21:30\t💥【最低40,000保証】超保証トーナメント【2K】💥",
+          "date": "08/02",
+          "rank": 15,
+          "total_entries": 29,
           "points": 0.0
         }
       ],
