@@ -1,5 +1,5 @@
 {
-  "calc_date": "2026年09月09日",
+  "calc_date": "2026年09月10日",
   "season_start": "07/01～09/30",
   "season_number": 2,
   "top_n_results": 10,
@@ -11,7 +11,7 @@
       "total_points": 453.8,
       "count_1st": 7,
       "best_score": 105.6,
-      "appearances": 53,
+      "appearances": 54,
       "results": [
         {
           "_index": 0,
@@ -489,6 +489,15 @@
           "rank": 1,
           "total_entries": 32,
           "points": 32.0
+        },
+        {
+          "_index": 53,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 11,
+          "total_entries": 45,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
@@ -507,10 +516,10 @@
     {
       "id": "380256",
       "nickname": "技術のうち",
-      "total_points": 339.6,
+      "total_points": 347.7,
       "count_1st": 6,
       "best_score": 47.7,
-      "appearances": 54,
+      "appearances": 55,
       "results": [
         {
           "_index": 0,
@@ -997,11 +1006,19 @@
           "rank": 9,
           "total_entries": 32,
           "points": 0.0
+        },
+        {
+          "_index": 54,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 4,
+          "total_entries": 45,
+          "points": 31.5
         }
       ],
       "top_result_indices": [
         35,
-        8,
         43,
         44,
         15,
@@ -1009,6 +1026,7 @@
         18,
         51,
         20,
+        54,
         26
       ]
     },
@@ -1018,7 +1036,7 @@
       "total_points": 320.5,
       "count_1st": 2,
       "best_score": 45.0,
-      "appearances": 35,
+      "appearances": 36,
       "results": [
         {
           "_index": 0,
@@ -1334,6 +1352,15 @@
           "rank": 4,
           "total_entries": 16,
           "points": 11.2
+        },
+        {
+          "_index": 35,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 6,
+          "total_entries": 45,
+          "points": 22.5
         }
       ],
       "top_result_indices": [
@@ -2366,7 +2393,7 @@
       "total_points": 279.6,
       "count_1st": 5,
       "best_score": 43.0,
-      "appearances": 49,
+      "appearances": 50,
       "results": [
         {
           "_index": 0,
@@ -2807,6 +2834,15 @@
           "date": "09/09",
           "rank": 8,
           "total_entries": 32,
+          "points": 0.0
+        },
+        {
+          "_index": 49,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 22,
+          "total_entries": 45,
           "points": 0.0
         }
       ],
@@ -5552,7 +5588,7 @@
       "total_points": 173.2,
       "count_1st": 2,
       "best_score": 41.0,
-      "appearances": 15,
+      "appearances": 16,
       "results": [
         {
           "_index": 0,
@@ -5687,6 +5723,15 @@
           "date": "09/09",
           "rank": 14,
           "total_entries": 32,
+          "points": 0.0
+        },
+        {
+          "_index": 15,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 18,
+          "total_entries": 45,
           "points": 0.0
         }
       ],
@@ -6606,6 +6651,108 @@
       ]
     },
     {
+      "id": "170298",
+      "nickname": "けんちゃん",
+      "total_points": 142.1,
+      "count_1st": 0,
+      "best_score": 36.0,
+      "appearances": 9,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2346376",
+          "tournament_name": "18:30~22:30\t🍖🍣🌾 選べる豪華グルメカップ 🌾🍣🍖",
+          "date": "08/10",
+          "rank": 2,
+          "total_entries": 39,
+          "points": 35.1
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2337661",
+          "tournament_name": "17:30~20:30\t🔥🔥【激アツ】ゲリラトーナメント🔥🔥",
+          "date": "08/13",
+          "rank": 6,
+          "total_entries": 46,
+          "points": 23.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2346136",
+          "tournament_name": "13:00~16:00\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "08/23",
+          "rank": 2,
+          "total_entries": 32,
+          "points": 28.8
+        },
+        {
+          "_index": 3,
+          "tournament_id": "2346197",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "08/27",
+          "rank": 8,
+          "total_entries": 16,
+          "points": 0.0
+        },
+        {
+          "_index": 4,
+          "tournament_id": "2346378",
+          "tournament_name": "18:30~21:30\t🍖🍣🌾 選べる豪華グルメカップ 🌾🍣🍖",
+          "date": "08/28",
+          "rank": 7,
+          "total_entries": 36,
+          "points": 0.0
+        },
+        {
+          "_index": 5,
+          "tournament_id": "2337681",
+          "tournament_name": "17:30~20:30\t【２位まで保証】Switch 2 トーナメント",
+          "date": "08/29",
+          "rank": 8,
+          "total_entries": 41,
+          "points": 0.0
+        },
+        {
+          "_index": 6,
+          "tournament_id": "2396810",
+          "tournament_name": "13:00~16:00\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "09/06",
+          "rank": 9,
+          "total_entries": 25,
+          "points": 0.0
+        },
+        {
+          "_index": 7,
+          "tournament_id": "2407450",
+          "tournament_name": "18:30~21:30\t🍖🍣🌾 選べる豪華グルメカップ 🌾🍣🍖",
+          "date": "09/09",
+          "rank": 5,
+          "total_entries": 32,
+          "points": 19.2
+        },
+        {
+          "_index": 8,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 3,
+          "total_entries": 45,
+          "points": 36.0
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
       "id": "651023",
       "nickname": "むろし",
       "total_points": 140.5,
@@ -6795,7 +6942,7 @@
       "total_points": 136.4,
       "count_1st": 0,
       "best_score": 37.1,
-      "appearances": 14,
+      "appearances": 15,
       "results": [
         {
           "_index": 0,
@@ -6921,6 +7068,15 @@
           "date": "09/01",
           "rank": 16,
           "total_entries": 33,
+          "points": 0.0
+        },
+        {
+          "_index": 14,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 8,
+          "total_entries": 45,
           "points": 0.0
         }
       ],
@@ -7065,6 +7221,68 @@
         8,
         9,
         10
+      ]
+    },
+    {
+      "id": "527734",
+      "nickname": "YJ",
+      "total_points": 111.3,
+      "count_1st": 1,
+      "best_score": 45.0,
+      "appearances": 5,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2346124",
+          "tournament_name": "18:30~21:30\t【U-30 2026 SUMMER Main Event 1枚付き】100% MEGA STACK CUP【2K】",
+          "date": "08/20",
+          "rank": 2,
+          "total_entries": 37,
+          "points": 33.3
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2346425",
+          "tournament_name": "13:00~22:30\t⚡ ラストチャンス「頂上決戦」一撃サテライト ⚡",
+          "date": "08/22",
+          "rank": 5,
+          "total_entries": 20,
+          "points": 12.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2337672",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "08/23",
+          "rank": 4,
+          "total_entries": 30,
+          "points": 21.0
+        },
+        {
+          "_index": 3,
+          "tournament_id": "2385081",
+          "tournament_name": "17:30~20:30\t【総額120,000保証】12万保証トーナメント【3K】",
+          "date": "09/06",
+          "rank": 16,
+          "total_entries": 43,
+          "points": 0.0
+        },
+        {
+          "_index": 4,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 1,
+          "total_entries": 45,
+          "points": 45.0
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2,
+        3,
+        4
       ]
     },
     {
@@ -7379,98 +7597,6 @@
         7,
         8,
         10
-      ]
-    },
-    {
-      "id": "170298",
-      "nickname": "けんちゃん",
-      "total_points": 106.1,
-      "count_1st": 0,
-      "best_score": 35.1,
-      "appearances": 8,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2346376",
-          "tournament_name": "18:30~22:30\t🍖🍣🌾 選べる豪華グルメカップ 🌾🍣🍖",
-          "date": "08/10",
-          "rank": 2,
-          "total_entries": 39,
-          "points": 35.1
-        },
-        {
-          "_index": 1,
-          "tournament_id": "2337661",
-          "tournament_name": "17:30~20:30\t🔥🔥【激アツ】ゲリラトーナメント🔥🔥",
-          "date": "08/13",
-          "rank": 6,
-          "total_entries": 46,
-          "points": 23.0
-        },
-        {
-          "_index": 2,
-          "tournament_id": "2346136",
-          "tournament_name": "13:00~16:00\t🔥【100% Deep Stackトーナメント】🔥【2K】",
-          "date": "08/23",
-          "rank": 2,
-          "total_entries": 32,
-          "points": 28.8
-        },
-        {
-          "_index": 3,
-          "tournament_id": "2346197",
-          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
-          "date": "08/27",
-          "rank": 8,
-          "total_entries": 16,
-          "points": 0.0
-        },
-        {
-          "_index": 4,
-          "tournament_id": "2346378",
-          "tournament_name": "18:30~21:30\t🍖🍣🌾 選べる豪華グルメカップ 🌾🍣🍖",
-          "date": "08/28",
-          "rank": 7,
-          "total_entries": 36,
-          "points": 0.0
-        },
-        {
-          "_index": 5,
-          "tournament_id": "2337681",
-          "tournament_name": "17:30~20:30\t【２位まで保証】Switch 2 トーナメント",
-          "date": "08/29",
-          "rank": 8,
-          "total_entries": 41,
-          "points": 0.0
-        },
-        {
-          "_index": 6,
-          "tournament_id": "2396810",
-          "tournament_name": "13:00~16:00\t🔥【100% Deep Stackトーナメント】🔥【2K】",
-          "date": "09/06",
-          "rank": 9,
-          "total_entries": 25,
-          "points": 0.0
-        },
-        {
-          "_index": 7,
-          "tournament_id": "2407450",
-          "tournament_name": "18:30~21:30\t🍖🍣🌾 選べる豪華グルメカップ 🌾🍣🍖",
-          "date": "09/09",
-          "rank": 5,
-          "total_entries": 32,
-          "points": 19.2
-        }
-      ],
-      "top_result_indices": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        6,
-        7
       ]
     },
     {
@@ -8065,6 +8191,108 @@
       ]
     },
     {
+      "id": "120090",
+      "nickname": "やまてぃ　ʕ´•ᴥ•`ʔ ʕ´•ᴥ•`ʔ",
+      "total_points": 83.5,
+      "count_1st": 1,
+      "best_score": 43.0,
+      "appearances": 9,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2277756",
+          "tournament_name": "Lvs : 20 / 時間 :6h42m\tx / Lv7 / Lv7",
+          "date": "07/15",
+          "rank": 10,
+          "total_entries": 15,
+          "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2216386",
+          "tournament_name": "17:00~22:30\t🎉🎉オーナーかわい 就任２周年記念トーナメント🎉🎉",
+          "date": "07/19",
+          "rank": 30,
+          "total_entries": 81,
+          "points": 0.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2346071",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "08/07",
+          "rank": 13,
+          "total_entries": 28,
+          "points": 0.0
+        },
+        {
+          "_index": 3,
+          "tournament_id": "2335956",
+          "tournament_name": "14:00~18:00\t【配信有り】♟ THE CLASSIC – Fruits Special ♟【5ｋ】",
+          "date": "08/11",
+          "rank": 26,
+          "total_entries": 53,
+          "points": 0.0
+        },
+        {
+          "_index": 4,
+          "tournament_id": "2337675",
+          "tournament_name": "18:30~21:30\t【U-30 2026 SUMMER Main Event 1枚付き】MIX Triple Draw【2Ｋ】",
+          "date": "08/19",
+          "rank": 11,
+          "total_entries": 20,
+          "points": 0.0
+        },
+        {
+          "_index": 5,
+          "tournament_id": "2385081",
+          "tournament_name": "17:30~20:30\t【総額120,000保証】12万保証トーナメント【3K】",
+          "date": "09/06",
+          "rank": 1,
+          "total_entries": 43,
+          "points": 43.0
+        },
+        {
+          "_index": 6,
+          "tournament_id": "2407449",
+          "tournament_name": "18:30~21:30\t🏆🎁 選べる週パストーナメント 🎁🏆",
+          "date": "09/07",
+          "rank": 15,
+          "total_entries": 41,
+          "points": 0.0
+        },
+        {
+          "_index": 7,
+          "tournament_id": "2407450",
+          "tournament_name": "18:30~21:30\t🍖🍣🌾 選べる豪華グルメカップ 🌾🍣🍖",
+          "date": "09/09",
+          "rank": 13,
+          "total_entries": 32,
+          "points": 0.0
+        },
+        {
+          "_index": 8,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 2,
+          "total_entries": 45,
+          "points": 40.5
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
       "id": "434021",
       "nickname": "だいぼう",
       "total_points": 76.0,
@@ -8396,58 +8624,6 @@
         7,
         8,
         9
-      ]
-    },
-    {
-      "id": "527734",
-      "nickname": "YJ",
-      "total_points": 66.3,
-      "count_1st": 0,
-      "best_score": 33.3,
-      "appearances": 4,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2346124",
-          "tournament_name": "18:30~21:30\t【U-30 2026 SUMMER Main Event 1枚付き】100% MEGA STACK CUP【2K】",
-          "date": "08/20",
-          "rank": 2,
-          "total_entries": 37,
-          "points": 33.3
-        },
-        {
-          "_index": 1,
-          "tournament_id": "2346425",
-          "tournament_name": "13:00~22:30\t⚡ ラストチャンス「頂上決戦」一撃サテライト ⚡",
-          "date": "08/22",
-          "rank": 5,
-          "total_entries": 20,
-          "points": 12.0
-        },
-        {
-          "_index": 2,
-          "tournament_id": "2337672",
-          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
-          "date": "08/23",
-          "rank": 4,
-          "total_entries": 30,
-          "points": 21.0
-        },
-        {
-          "_index": 3,
-          "tournament_id": "2385081",
-          "tournament_name": "17:30~20:30\t【総額120,000保証】12万保証トーナメント【3K】",
-          "date": "09/06",
-          "rank": 16,
-          "total_entries": 43,
-          "points": 0.0
-        }
-      ],
-      "top_result_indices": [
-        0,
-        1,
-        2,
-        3
       ]
     },
     {
@@ -8833,7 +9009,7 @@
       "total_points": 53.6,
       "count_1st": 0,
       "best_score": 29.6,
-      "appearances": 5,
+      "appearances": 6,
       "results": [
         {
           "_index": 0,
@@ -8879,6 +9055,15 @@
           "rank": 18,
           "total_entries": 43,
           "points": 0.0
+        },
+        {
+          "_index": 5,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 21,
+          "total_entries": 45,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
@@ -8886,7 +9071,8 @@
         1,
         2,
         3,
-        4
+        4,
+        5
       ]
     },
     {
@@ -8895,7 +9081,7 @@
       "total_points": 52.0,
       "count_1st": 1,
       "best_score": 27.0,
-      "appearances": 2,
+      "appearances": 3,
       "results": [
         {
           "_index": 0,
@@ -8914,11 +9100,21 @@
           "rank": 1,
           "total_entries": 25,
           "points": 25.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 15,
+          "total_entries": 45,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
         0,
-        1
+        1,
+        2
       ]
     },
     {
@@ -9221,11 +9417,11 @@
     },
     {
       "id": "600323",
-      "nickname": "おおの@ganchuu",
+      "nickname": "おおの@gajirist",
       "total_points": 44.3,
       "count_1st": 0,
       "best_score": 24.3,
-      "appearances": 4,
+      "appearances": 5,
       "results": [
         {
           "_index": 0,
@@ -9262,93 +9458,14 @@
           "rank": 3,
           "total_entries": 25,
           "points": 20.0
-        }
-      ],
-      "top_result_indices": [
-        0,
-        1,
-        2,
-        3
-      ]
-    },
-    {
-      "id": "120090",
-      "nickname": "やまてぃ　ʕ´•ᴥ•`ʔ ʕ´•ᴥ•`ʔ",
-      "total_points": 43.0,
-      "count_1st": 1,
-      "best_score": 43.0,
-      "appearances": 8,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2277756",
-          "tournament_name": "Lvs : 20 / 時間 :6h42m\tx / Lv7 / Lv7",
-          "date": "07/15",
-          "rank": 10,
-          "total_entries": 15,
-          "points": 0.0
-        },
-        {
-          "_index": 1,
-          "tournament_id": "2216386",
-          "tournament_name": "17:00~22:30\t🎉🎉オーナーかわい 就任２周年記念トーナメント🎉🎉",
-          "date": "07/19",
-          "rank": 30,
-          "total_entries": 81,
-          "points": 0.0
-        },
-        {
-          "_index": 2,
-          "tournament_id": "2346071",
-          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
-          "date": "08/07",
-          "rank": 13,
-          "total_entries": 28,
-          "points": 0.0
-        },
-        {
-          "_index": 3,
-          "tournament_id": "2335956",
-          "tournament_name": "14:00~18:00\t【配信有り】♟ THE CLASSIC – Fruits Special ♟【5ｋ】",
-          "date": "08/11",
-          "rank": 26,
-          "total_entries": 53,
-          "points": 0.0
         },
         {
           "_index": 4,
-          "tournament_id": "2337675",
-          "tournament_name": "18:30~21:30\t【U-30 2026 SUMMER Main Event 1枚付き】MIX Triple Draw【2Ｋ】",
-          "date": "08/19",
-          "rank": 11,
-          "total_entries": 20,
-          "points": 0.0
-        },
-        {
-          "_index": 5,
-          "tournament_id": "2385081",
-          "tournament_name": "17:30~20:30\t【総額120,000保証】12万保証トーナメント【3K】",
-          "date": "09/06",
-          "rank": 1,
-          "total_entries": 43,
-          "points": 43.0
-        },
-        {
-          "_index": 6,
-          "tournament_id": "2407449",
-          "tournament_name": "18:30~21:30\t🏆🎁 選べる週パストーナメント 🎁🏆",
-          "date": "09/07",
-          "rank": 15,
-          "total_entries": 41,
-          "points": 0.0
-        },
-        {
-          "_index": 7,
-          "tournament_id": "2407450",
-          "tournament_name": "18:30~21:30\t🍖🍣🌾 選べる豪華グルメカップ 🌾🍣🍖",
-          "date": "09/09",
-          "rank": 13,
-          "total_entries": 32,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 19,
+          "total_entries": 45,
           "points": 0.0
         }
       ],
@@ -9357,10 +9474,7 @@
         1,
         2,
         3,
-        4,
-        5,
-        6,
-        7
+        4
       ]
     },
     {
@@ -9696,6 +9810,58 @@
       ]
     },
     {
+      "id": "242338",
+      "nickname": "マグニ",
+      "total_points": 37.0,
+      "count_1st": 0,
+      "best_score": 27.0,
+      "appearances": 4,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2274694",
+          "tournament_name": "18:30~22:30\t🏆🍎🍇 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
+          "date": "07/02",
+          "rank": 7,
+          "total_entries": 49,
+          "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2262317",
+          "tournament_name": "17:00~22:30\t👑🎂 MASATO祝祭 ～店長就任＆BIRTHDAY～ 🎂👑",
+          "date": "07/11",
+          "rank": 18,
+          "total_entries": 132,
+          "points": 0.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2337675",
+          "tournament_name": "18:30~21:30\t【U-30 2026 SUMMER Main Event 1枚付き】MIX Triple Draw【2Ｋ】",
+          "date": "08/19",
+          "rank": 6,
+          "total_entries": 20,
+          "points": 10.0
+        },
+        {
+          "_index": 3,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 5,
+          "total_entries": 45,
+          "points": 27.0
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2,
+        3
+      ]
+    },
+    {
       "id": "314111",
       "nickname": "NoBuCoo",
       "total_points": 36.6,
@@ -9949,7 +10115,7 @@
       "total_points": 33.0,
       "count_1st": 1,
       "best_score": 33.0,
-      "appearances": 1,
+      "appearances": 2,
       "results": [
         {
           "_index": 0,
@@ -9959,10 +10125,20 @@
           "rank": 1,
           "total_entries": 33,
           "points": 33.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 13,
+          "total_entries": 45,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
-        0
+        0,
+        1
       ]
     },
     {
@@ -10047,7 +10223,7 @@
       "total_points": 30.7,
       "count_1st": 0,
       "best_score": 16.2,
-      "appearances": 4,
+      "appearances": 5,
       "results": [
         {
           "_index": 0,
@@ -10084,13 +10260,23 @@
           "rank": 14,
           "total_entries": 25,
           "points": 0.0
+        },
+        {
+          "_index": 4,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 9,
+          "total_entries": 45,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
         0,
         1,
         2,
-        3
+        3,
+        4
       ]
     },
     {
@@ -10629,11 +10815,11 @@
     },
     {
       "id": "648230",
-      "nickname": "john doe",
+      "nickname": "Tyler goddamn",
       "total_points": 23.1,
       "count_1st": 0,
       "best_score": 23.1,
-      "appearances": 1,
+      "appearances": 2,
       "results": [
         {
           "_index": 0,
@@ -10643,10 +10829,20 @@
           "rank": 4,
           "total_entries": 33,
           "points": 23.1
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 16,
+          "total_entries": 45,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
-        0
+        0,
+        1
       ]
     },
     {
@@ -11971,48 +12167,6 @@
       ]
     },
     {
-      "id": "242338",
-      "nickname": "マグニ",
-      "total_points": 10.0,
-      "count_1st": 0,
-      "best_score": 10.0,
-      "appearances": 3,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2274694",
-          "tournament_name": "18:30~22:30\t🏆🍎🍇 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
-          "date": "07/02",
-          "rank": 7,
-          "total_entries": 49,
-          "points": 0.0
-        },
-        {
-          "_index": 1,
-          "tournament_id": "2262317",
-          "tournament_name": "17:00~22:30\t👑🎂 MASATO祝祭 ～店長就任＆BIRTHDAY～ 🎂👑",
-          "date": "07/11",
-          "rank": 18,
-          "total_entries": 132,
-          "points": 0.0
-        },
-        {
-          "_index": 2,
-          "tournament_id": "2337675",
-          "tournament_name": "18:30~21:30\t【U-30 2026 SUMMER Main Event 1枚付き】MIX Triple Draw【2Ｋ】",
-          "date": "08/19",
-          "rank": 6,
-          "total_entries": 20,
-          "points": 10.0
-        }
-      ],
-      "top_result_indices": [
-        0,
-        1,
-        2
-      ]
-    },
-    {
       "id": "518264",
       "nickname": "yama",
       "total_points": 9.6,
@@ -13314,7 +13468,7 @@
       "total_points": 0.0,
       "count_1st": 0,
       "best_score": 0.0,
-      "appearances": 1,
+      "appearances": 2,
       "results": [
         {
           "_index": 0,
@@ -13324,10 +13478,20 @@
           "rank": 7,
           "total_entries": 46,
           "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 17,
+          "total_entries": 45,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
-        0
+        0,
+        1
       ]
     },
     {
@@ -13706,7 +13870,7 @@
       "total_points": 0.0,
       "count_1st": 0,
       "best_score": 0.0,
-      "appearances": 2,
+      "appearances": 3,
       "results": [
         {
           "_index": 0,
@@ -13725,11 +13889,21 @@
           "rank": 7,
           "total_entries": 18,
           "points": 0.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 7,
+          "total_entries": 45,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
         0,
-        1
+        1,
+        2
       ]
     },
     {
@@ -14131,6 +14305,94 @@
           "date": "09/07",
           "rank": 13,
           "total_entries": 41,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "670956",
+      "nickname": "you",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 10,
+          "total_entries": 45,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "237712",
+      "nickname": "デリオ",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 12,
+          "total_entries": 45,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "669582",
+      "nickname": "ぴゃー",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 14,
+          "total_entries": 45,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "92798",
+      "nickname": "OKADA",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 20,
+          "total_entries": 45,
           "points": 0.0
         }
       ],
