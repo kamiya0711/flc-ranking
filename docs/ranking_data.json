@@ -1,5 +1,5 @@
 {
-  "calc_date": "2026年09月21日",
+  "calc_date": "2026年09月22日",
   "season_start": "07/01～09/30",
   "season_number": 2,
   "top_n_results": 10,
@@ -634,9 +634,9 @@
       "id": "380256",
       "nickname": "技術のうち",
       "total_points": 348.9,
-      "count_1st": 7,
+      "count_1st": 8,
       "best_score": 47.7,
-      "appearances": 62,
+      "appearances": 63,
       "results": [
         {
           "_index": 0,
@@ -1195,6 +1195,15 @@
           "rank": 2,
           "total_entries": 28,
           "points": 25.2
+        },
+        {
+          "_index": 62,
+          "tournament_id": "2407792",
+          "tournament_name": "13:00~16:00\t💥KOバウンティトーナメント💥",
+          "date": "09/22",
+          "rank": 1,
+          "total_entries": 10,
+          "points": 10.0
         }
       ],
       "top_result_indices": [
@@ -1216,7 +1225,7 @@
       "total_points": 320.5,
       "count_1st": 2,
       "best_score": 45.0,
-      "appearances": 39,
+      "appearances": 40,
       "results": [
         {
           "_index": 0,
@@ -1568,6 +1577,15 @@
           "rank": 3,
           "total_entries": 21,
           "points": 16.8
+        },
+        {
+          "_index": 39,
+          "tournament_id": "2407792",
+          "tournament_name": "13:00~16:00\t💥KOバウンティトーナメント💥",
+          "date": "09/22",
+          "rank": 7,
+          "total_entries": 10,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
@@ -3957,7 +3975,7 @@
       "total_points": 244.7,
       "count_1st": 2,
       "best_score": 36.0,
-      "appearances": 40,
+      "appearances": 41,
       "results": [
         {
           "_index": 0,
@@ -4317,6 +4335,15 @@
           "date": "09/19",
           "rank": 8,
           "total_entries": 33,
+          "points": 0.0
+        },
+        {
+          "_index": 40,
+          "tournament_id": "2407792",
+          "tournament_name": "13:00~16:00\t💥KOバウンティトーナメント💥",
+          "date": "09/22",
+          "rank": 8,
+          "total_entries": 10,
           "points": 0.0
         }
       ],
@@ -12276,7 +12303,7 @@
       "total_points": 27.0,
       "count_1st": 0,
       "best_score": 16.2,
-      "appearances": 6,
+      "appearances": 7,
       "results": [
         {
           "_index": 0,
@@ -12331,6 +12358,15 @@
           "rank": 2,
           "total_entries": 18,
           "points": 16.2
+        },
+        {
+          "_index": 6,
+          "tournament_id": "2407792",
+          "tournament_name": "13:00~16:00\t💥KOバウンティトーナメント💥",
+          "date": "09/22",
+          "rank": 10,
+          "total_entries": 10,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
@@ -12339,7 +12375,8 @@
         2,
         3,
         4,
-        5
+        5,
+        6
       ]
     },
     {
@@ -14202,6 +14239,28 @@
       ]
     },
     {
+      "id": "627588",
+      "nickname": "s04",
+      "total_points": 9.0,
+      "count_1st": 0,
+      "best_score": 9.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2407792",
+          "tournament_name": "13:00~16:00\t💥KOバウンティトーナメント💥",
+          "date": "09/22",
+          "rank": 2,
+          "total_entries": 10,
+          "points": 9.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
       "id": "505192",
       "nickname": "ともや",
       "total_points": 9.0,
@@ -14217,6 +14276,28 @@
           "rank": 5,
           "total_entries": 15,
           "points": 9.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "33538",
+      "nickname": "こうすけ@",
+      "total_points": 8.0,
+      "count_1st": 0,
+      "best_score": 8.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2407792",
+          "tournament_name": "13:00~16:00\t💥KOバウンティトーナメント💥",
+          "date": "09/22",
+          "rank": 3,
+          "total_entries": 10,
+          "points": 8.0
         }
       ],
       "top_result_indices": [
@@ -14253,6 +14334,28 @@
       "top_result_indices": [
         0,
         1
+      ]
+    },
+    {
+      "id": "555043",
+      "nickname": "NARUNARU",
+      "total_points": 7.0,
+      "count_1st": 0,
+      "best_score": 7.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2407792",
+          "tournament_name": "13:00~16:00\t💥KOバウンティトーナメント💥",
+          "date": "09/22",
+          "rank": 4,
+          "total_entries": 10,
+          "points": 7.0
+        }
+      ],
+      "top_result_indices": [
+        0
       ]
     },
     {
@@ -14303,6 +14406,50 @@
           "rank": 2,
           "total_entries": 7,
           "points": 6.3
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "44338",
+      "nickname": "mkhope",
+      "total_points": 6.0,
+      "count_1st": 0,
+      "best_score": 6.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2407792",
+          "tournament_name": "13:00~16:00\t💥KOバウンティトーナメント💥",
+          "date": "09/22",
+          "rank": 5,
+          "total_entries": 10,
+          "points": 6.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "674491",
+      "nickname": "とっとこはむたろう",
+      "total_points": 5.0,
+      "count_1st": 0,
+      "best_score": 5.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2407792",
+          "tournament_name": "13:00~16:00\t💥KOバウンティトーナメント💥",
+          "date": "09/22",
+          "rank": 6,
+          "total_entries": 10,
+          "points": 5.0
         }
       ],
       "top_result_indices": [
@@ -16600,6 +16747,28 @@
           "date": "09/13",
           "rank": 7,
           "total_entries": 15,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "674490",
+      "nickname": "おーがね",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2407792",
+          "tournament_name": "13:00~16:00\t💥KOバウンティトーナメント💥",
+          "date": "09/22",
+          "rank": 9,
+          "total_entries": 10,
           "points": 0.0
         }
       ],
