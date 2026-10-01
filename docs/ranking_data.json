@@ -1,5 +1,5 @@
 {
-  "calc_date": "2026年09月30日",
+  "calc_date": "2026年10月02日",
   "season_start": "07/01～09/30",
   "season_number": 2,
   "top_n_results": 10,
@@ -11,7 +11,7 @@
       "total_points": 470.9,
       "count_1st": 12,
       "best_score": 105.6,
-      "appearances": 74,
+      "appearances": 75,
       "results": [
         {
           "_index": 0,
@@ -678,6 +678,15 @@
           "rank": 15,
           "total_entries": 43,
           "points": 0.0
+        },
+        {
+          "_index": 74,
+          "tournament_id": "2446853",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/01",
+          "rank": 6,
+          "total_entries": 25,
+          "points": 12.5
         }
       ],
       "top_result_indices": [
@@ -1634,7 +1643,7 @@
       "total_points": 320.5,
       "count_1st": 2,
       "best_score": 45.0,
-      "appearances": 40,
+      "appearances": 41,
       "results": [
         {
           "_index": 0,
@@ -1995,6 +2004,15 @@
           "rank": 7,
           "total_entries": 10,
           "points": 0.0
+        },
+        {
+          "_index": 40,
+          "tournament_id": "2446853",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/01",
+          "rank": 9,
+          "total_entries": 25,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
@@ -2335,7 +2353,7 @@
       "total_points": 300.3,
       "count_1st": 2,
       "best_score": 46.0,
-      "appearances": 58,
+      "appearances": 59,
       "results": [
         {
           "_index": 0,
@@ -2858,6 +2876,15 @@
           "rank": 8,
           "total_entries": 43,
           "points": 0.0
+        },
+        {
+          "_index": 58,
+          "tournament_id": "2446853",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/01",
+          "rank": 4,
+          "total_entries": 25,
+          "points": 17.5
         }
       ],
       "top_result_indices": [
@@ -3739,10 +3766,10 @@
     {
       "id": "120090",
       "nickname": "やまてぃ　ʕ´•ᴥ•`ʔ ʕ´•ᴥ•`ʔ",
-      "total_points": 272.2,
+      "total_points": 278.2,
       "count_1st": 1,
       "best_score": 43.0,
-      "appearances": 21,
+      "appearances": 22,
       "results": [
         {
           "_index": 0,
@@ -3932,19 +3959,28 @@
           "rank": 2,
           "total_entries": 43,
           "points": 38.7
+        },
+        {
+          "_index": 21,
+          "tournament_id": "2446853",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/01",
+          "rank": 5,
+          "total_entries": 25,
+          "points": 15.0
         }
       ],
       "top_result_indices": [
         5,
         8,
         9,
-        12,
         14,
         15,
         17,
         18,
         19,
-        20
+        20,
+        21
       ]
     },
     {
@@ -5010,10 +5046,10 @@
     {
       "id": "423895",
       "nickname": "しんぐるもると",
-      "total_points": 250.1,
+      "total_points": 251.5,
       "count_1st": 2,
       "best_score": 36.0,
-      "appearances": 44,
+      "appearances": 45,
       "results": [
         {
           "_index": 0,
@@ -5410,16 +5446,25 @@
           "rank": 17,
           "total_entries": 43,
           "points": 0.0
+        },
+        {
+          "_index": 44,
+          "tournament_id": "2446853",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/01",
+          "rank": 3,
+          "total_entries": 25,
+          "points": 20.0
         }
       ],
       "top_result_indices": [
         32,
         33,
         35,
-        6,
         8,
         42,
         11,
+        44,
         19,
         20,
         22
@@ -6769,7 +6814,7 @@
       "total_points": 205.7,
       "count_1st": 2,
       "best_score": 41.0,
-      "appearances": 27,
+      "appearances": 28,
       "results": [
         {
           "_index": 0,
@@ -7012,6 +7057,15 @@
           "date": "09/30",
           "rank": 9,
           "total_entries": 43,
+          "points": 0.0
+        },
+        {
+          "_index": 27,
+          "tournament_id": "2446853",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/01",
+          "rank": 12,
+          "total_entries": 25,
           "points": 0.0
         }
       ],
@@ -8923,6 +8977,181 @@
       ]
     },
     {
+      "id": "335893",
+      "nickname": "TSUBASA",
+      "total_points": 158.9,
+      "count_1st": 0,
+      "best_score": 37.1,
+      "appearances": 17,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2277768",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】Deep Stackトーナメント【2Ｋ】",
+          "date": "07/10",
+          "rank": 9,
+          "total_entries": 19,
+          "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2278261",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】Deep Stackトーナメント【2Ｋ】",
+          "date": "07/24",
+          "rank": 12,
+          "total_entries": 24,
+          "points": 0.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2278256",
+          "tournament_name": "18:30~21:30\t💥【最低40,000保証】超保証トーナメント【2K】💥",
+          "date": "07/25",
+          "rank": 3,
+          "total_entries": 36,
+          "points": 28.8
+        },
+        {
+          "_index": 3,
+          "tournament_id": "2278265",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】Deep Stackトーナメント【2Ｋ】",
+          "date": "07/28",
+          "rank": 5,
+          "total_entries": 29,
+          "points": 17.4
+        },
+        {
+          "_index": 4,
+          "tournament_id": "2277781",
+          "tournament_name": "17:30~20:30\t【SPADIE 18枚サテライト】🏆SPADIE開催直前トーナメント🏆【上位9名保証】",
+          "date": "08/01",
+          "rank": 2,
+          "total_entries": 23,
+          "points": 20.7
+        },
+        {
+          "_index": 5,
+          "tournament_id": "2337680",
+          "tournament_name": "18:30~21:30\t【JP10万】🎰THE SUPER JACKPOT🎰【2K】",
+          "date": "08/04",
+          "rank": 15,
+          "total_entries": 44,
+          "points": 0.0
+        },
+        {
+          "_index": 6,
+          "tournament_id": "2346071",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "08/07",
+          "rank": 10,
+          "total_entries": 28,
+          "points": 0.0
+        },
+        {
+          "_index": 7,
+          "tournament_id": "2335956",
+          "tournament_name": "14:00~18:00\t【配信有り】♟ THE CLASSIC – Fruits Special ♟【5ｋ】",
+          "date": "08/11",
+          "rank": 4,
+          "total_entries": 53,
+          "points": 37.1
+        },
+        {
+          "_index": 8,
+          "tournament_id": "2337661",
+          "tournament_name": "17:30~20:30\t🔥🔥【激アツ】ゲリラトーナメント🔥🔥",
+          "date": "08/13",
+          "rank": 9,
+          "total_entries": 46,
+          "points": 0.0
+        },
+        {
+          "_index": 9,
+          "tournament_id": "2346377",
+          "tournament_name": "18:30~21:30\t【JP10万】🎰THE SUPER JACKPOT🎰【2K】",
+          "date": "08/21",
+          "rank": 9,
+          "total_entries": 34,
+          "points": 0.0
+        },
+        {
+          "_index": 10,
+          "tournament_id": "2346196",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "08/25",
+          "rank": 2,
+          "total_entries": 36,
+          "points": 32.4
+        },
+        {
+          "_index": 11,
+          "tournament_id": "2337656",
+          "tournament_name": "18:30~21:30\t【毎月26日】🍓フルーツの日🍓【大還元】",
+          "date": "08/26",
+          "rank": 12,
+          "total_entries": 53,
+          "points": 0.0
+        },
+        {
+          "_index": 12,
+          "tournament_id": "2337681",
+          "tournament_name": "17:30~20:30\t【２位まで保証】Switch 2 トーナメント",
+          "date": "08/29",
+          "rank": 14,
+          "total_entries": 41,
+          "points": 0.0
+        },
+        {
+          "_index": 13,
+          "tournament_id": "2396796",
+          "tournament_name": "18:30~21:30\t【JP10万】🎰THE SUPER JACKPOT🎰【2K】",
+          "date": "09/01",
+          "rank": 16,
+          "total_entries": 33,
+          "points": 0.0
+        },
+        {
+          "_index": 14,
+          "tournament_id": "2407754",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "09/10",
+          "rank": 8,
+          "total_entries": 45,
+          "points": 0.0
+        },
+        {
+          "_index": 15,
+          "tournament_id": "2407755",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "09/11",
+          "rank": 15,
+          "total_entries": 34,
+          "points": 0.0
+        },
+        {
+          "_index": 16,
+          "tournament_id": "2446853",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/01",
+          "rank": 2,
+          "total_entries": 25,
+          "points": 22.5
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        7,
+        8,
+        10,
+        11,
+        16
+      ]
+    },
+    {
       "id": "651023",
       "nickname": "むろし",
       "total_points": 140.5,
@@ -9270,172 +9499,6 @@
         12,
         13,
         14
-      ]
-    },
-    {
-      "id": "335893",
-      "nickname": "TSUBASA",
-      "total_points": 136.4,
-      "count_1st": 0,
-      "best_score": 37.1,
-      "appearances": 16,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2277768",
-          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】Deep Stackトーナメント【2Ｋ】",
-          "date": "07/10",
-          "rank": 9,
-          "total_entries": 19,
-          "points": 0.0
-        },
-        {
-          "_index": 1,
-          "tournament_id": "2278261",
-          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】Deep Stackトーナメント【2Ｋ】",
-          "date": "07/24",
-          "rank": 12,
-          "total_entries": 24,
-          "points": 0.0
-        },
-        {
-          "_index": 2,
-          "tournament_id": "2278256",
-          "tournament_name": "18:30~21:30\t💥【最低40,000保証】超保証トーナメント【2K】💥",
-          "date": "07/25",
-          "rank": 3,
-          "total_entries": 36,
-          "points": 28.8
-        },
-        {
-          "_index": 3,
-          "tournament_id": "2278265",
-          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】Deep Stackトーナメント【2Ｋ】",
-          "date": "07/28",
-          "rank": 5,
-          "total_entries": 29,
-          "points": 17.4
-        },
-        {
-          "_index": 4,
-          "tournament_id": "2277781",
-          "tournament_name": "17:30~20:30\t【SPADIE 18枚サテライト】🏆SPADIE開催直前トーナメント🏆【上位9名保証】",
-          "date": "08/01",
-          "rank": 2,
-          "total_entries": 23,
-          "points": 20.7
-        },
-        {
-          "_index": 5,
-          "tournament_id": "2337680",
-          "tournament_name": "18:30~21:30\t【JP10万】🎰THE SUPER JACKPOT🎰【2K】",
-          "date": "08/04",
-          "rank": 15,
-          "total_entries": 44,
-          "points": 0.0
-        },
-        {
-          "_index": 6,
-          "tournament_id": "2346071",
-          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
-          "date": "08/07",
-          "rank": 10,
-          "total_entries": 28,
-          "points": 0.0
-        },
-        {
-          "_index": 7,
-          "tournament_id": "2335956",
-          "tournament_name": "14:00~18:00\t【配信有り】♟ THE CLASSIC – Fruits Special ♟【5ｋ】",
-          "date": "08/11",
-          "rank": 4,
-          "total_entries": 53,
-          "points": 37.1
-        },
-        {
-          "_index": 8,
-          "tournament_id": "2337661",
-          "tournament_name": "17:30~20:30\t🔥🔥【激アツ】ゲリラトーナメント🔥🔥",
-          "date": "08/13",
-          "rank": 9,
-          "total_entries": 46,
-          "points": 0.0
-        },
-        {
-          "_index": 9,
-          "tournament_id": "2346377",
-          "tournament_name": "18:30~21:30\t【JP10万】🎰THE SUPER JACKPOT🎰【2K】",
-          "date": "08/21",
-          "rank": 9,
-          "total_entries": 34,
-          "points": 0.0
-        },
-        {
-          "_index": 10,
-          "tournament_id": "2346196",
-          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
-          "date": "08/25",
-          "rank": 2,
-          "total_entries": 36,
-          "points": 32.4
-        },
-        {
-          "_index": 11,
-          "tournament_id": "2337656",
-          "tournament_name": "18:30~21:30\t【毎月26日】🍓フルーツの日🍓【大還元】",
-          "date": "08/26",
-          "rank": 12,
-          "total_entries": 53,
-          "points": 0.0
-        },
-        {
-          "_index": 12,
-          "tournament_id": "2337681",
-          "tournament_name": "17:30~20:30\t【２位まで保証】Switch 2 トーナメント",
-          "date": "08/29",
-          "rank": 14,
-          "total_entries": 41,
-          "points": 0.0
-        },
-        {
-          "_index": 13,
-          "tournament_id": "2396796",
-          "tournament_name": "18:30~21:30\t【JP10万】🎰THE SUPER JACKPOT🎰【2K】",
-          "date": "09/01",
-          "rank": 16,
-          "total_entries": 33,
-          "points": 0.0
-        },
-        {
-          "_index": 14,
-          "tournament_id": "2407754",
-          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
-          "date": "09/10",
-          "rank": 8,
-          "total_entries": 45,
-          "points": 0.0
-        },
-        {
-          "_index": 15,
-          "tournament_id": "2407755",
-          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
-          "date": "09/11",
-          "rank": 15,
-          "total_entries": 34,
-          "points": 0.0
-        }
-      ],
-      "top_result_indices": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5,
-        7,
-        8,
-        10,
-        11
       ]
     },
     {
@@ -10654,7 +10717,7 @@
       "total_points": 91.1,
       "count_1st": 1,
       "best_score": 36.0,
-      "appearances": 11,
+      "appearances": 12,
       "results": [
         {
           "_index": 0,
@@ -10753,6 +10816,15 @@
           "date": "09/29",
           "rank": 9,
           "total_entries": 22,
+          "points": 0.0
+        },
+        {
+          "_index": 11,
+          "tournament_id": "2446853",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/01",
+          "rank": 14,
+          "total_entries": 25,
           "points": 0.0
         }
       ],
@@ -13874,6 +13946,48 @@
       ]
     },
     {
+      "id": "259826",
+      "nickname": "ゆーじ",
+      "total_points": 25.0,
+      "count_1st": 1,
+      "best_score": 25.0,
+      "appearances": 3,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2274761",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "07/03",
+          "rank": 10,
+          "total_entries": 16,
+          "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2277770",
+          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】🔥MEGA STACK CUP🔥【2Ｋ】",
+          "date": "07/08",
+          "rank": 8,
+          "total_entries": 30,
+          "points": 0.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2446853",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/01",
+          "rank": 1,
+          "total_entries": 25,
+          "points": 25.0
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
       "id": "413678",
       "nickname": "Kei",
       "total_points": 24.0,
@@ -15307,7 +15421,7 @@
       "total_points": 11.2,
       "count_1st": 0,
       "best_score": 11.2,
-      "appearances": 4,
+      "appearances": 5,
       "results": [
         {
           "_index": 0,
@@ -15344,13 +15458,23 @@
           "rank": 8,
           "total_entries": 45,
           "points": 0.0
+        },
+        {
+          "_index": 4,
+          "tournament_id": "2446853",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/01",
+          "rank": 10,
+          "total_entries": 25,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
         0,
         1,
         2,
-        3
+        3,
+        4
       ]
     },
     {
@@ -16182,38 +16306,6 @@
       ]
     },
     {
-      "id": "259826",
-      "nickname": "ゆーじ",
-      "total_points": 0.0,
-      "count_1st": 0,
-      "best_score": 0.0,
-      "appearances": 2,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2274761",
-          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】🔥MEGA STACK CUP🔥【2Ｋ】",
-          "date": "07/03",
-          "rank": 10,
-          "total_entries": 16,
-          "points": 0.0
-        },
-        {
-          "_index": 1,
-          "tournament_id": "2277770",
-          "tournament_name": "18:30~21:30\t【SPADIE 12枚サテライト】🔥MEGA STACK CUP🔥【2Ｋ】",
-          "date": "07/08",
-          "rank": 8,
-          "total_entries": 30,
-          "points": 0.0
-        }
-      ],
-      "top_result_indices": [
-        0,
-        1
-      ]
-    },
-    {
       "id": "336095",
       "nickname": "かんだ",
       "total_points": 0.0,
@@ -16241,7 +16333,7 @@
       "total_points": 0.0,
       "count_1st": 0,
       "best_score": 0.0,
-      "appearances": 1,
+      "appearances": 2,
       "results": [
         {
           "_index": 0,
@@ -16251,10 +16343,20 @@
           "rank": 12,
           "total_entries": 30,
           "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2446853",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/01",
+          "rank": 7,
+          "total_entries": 25,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
-        0
+        0,
+        1
       ]
     },
     {
@@ -17693,7 +17795,7 @@
       "total_points": 0.0,
       "count_1st": 0,
       "best_score": 0.0,
-      "appearances": 2,
+      "appearances": 3,
       "results": [
         {
           "_index": 0,
@@ -17712,11 +17814,21 @@
           "rank": 10,
           "total_entries": 21,
           "points": 0.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2446853",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/01",
+          "rank": 11,
+          "total_entries": 25,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
         0,
-        1
+        1,
+        2
       ]
     },
     {
@@ -18216,6 +18328,50 @@
           "date": "09/23",
           "rank": 15,
           "total_entries": 42,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "553469",
+      "nickname": "Keisuke Tomita",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446853",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/01",
+          "rank": 8,
+          "total_entries": 25,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "553468",
+      "nickname": "あゆみ",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446853",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/01",
+          "rank": 13,
+          "total_entries": 25,
           "points": 0.0
         }
       ],
