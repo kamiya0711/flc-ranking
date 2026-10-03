@@ -1,17 +1,59 @@
 {
-  "calc_date": "2026年10月02日",
+  "calc_date": "2026年10月04日",
   "season_start": "10/01～12/31",
   "season_number": 3,
   "top_n_results": 10,
   "eligible_rank": 15,
   "players": [
     {
+      "id": "557484",
+      "nickname": "りょー",
+      "total_points": 85.0,
+      "count_1st": 1,
+      "best_score": 43.0,
+      "appearances": 3,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446835",
+          "tournament_name": "18:30~22:30\t【100％】🔥３Kギガスタック🔥【10万点】",
+          "date": "10/02",
+          "rank": 3,
+          "total_entries": 45,
+          "points": 36.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 1,
+          "total_entries": 43,
+          "points": 43.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2447092",
+          "tournament_name": "13:00~22:30\t☀️【夜トナメ2,000円OFF券付き】FRUITS DAYTIME TOURNAMENT☀️",
+          "date": "10/03",
+          "rank": 5,
+          "total_entries": 10,
+          "points": 6.0
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
       "id": "120090",
       "nickname": "やまてぃ　ʕ´•ᴥ•`ʔ ʕ´•ᴥ•`ʔ",
       "total_points": 46.5,
       "count_1st": 0,
       "best_score": 31.5,
-      "appearances": 2,
+      "appearances": 3,
       "results": [
         {
           "_index": 0,
@@ -30,11 +72,21 @@
           "rank": 4,
           "total_entries": 45,
           "points": 31.5
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 7,
+          "total_entries": 43,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
         0,
-        1
+        1,
+        2
       ]
     },
     {
@@ -60,12 +112,44 @@
       ]
     },
     {
+      "id": "527734",
+      "nickname": "YJ",
+      "total_points": 42.4,
+      "count_1st": 0,
+      "best_score": 34.4,
+      "appearances": 2,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 3,
+          "total_entries": 43,
+          "points": 34.4
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2447092",
+          "tournament_name": "13:00~22:30\t☀️【夜トナメ2,000円OFF券付き】FRUITS DAYTIME TOURNAMENT☀️",
+          "date": "10/03",
+          "rank": 3,
+          "total_entries": 10,
+          "points": 8.0
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1
+      ]
+    },
+    {
       "id": "411432",
       "nickname": "あっくん",
       "total_points": 40.5,
       "count_1st": 0,
       "best_score": 40.5,
-      "appearances": 1,
+      "appearances": 3,
       "results": [
         {
           "_index": 0,
@@ -75,6 +159,90 @@
           "rank": 2,
           "total_entries": 45,
           "points": 40.5
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 25,
+          "total_entries": 43,
+          "points": 0.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2447092",
+          "tournament_name": "13:00~22:30\t☀️【夜トナメ2,000円OFF券付き】FRUITS DAYTIME TOURNAMENT☀️",
+          "date": "10/03",
+          "rank": 8,
+          "total_entries": 10,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "428363",
+      "nickname": "なっかひら",
+      "total_points": 40.1,
+      "count_1st": 1,
+      "best_score": 30.1,
+      "appearances": 3,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446853",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/01",
+          "rank": 11,
+          "total_entries": 25,
+          "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 4,
+          "total_entries": 43,
+          "points": 30.1
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2447092",
+          "tournament_name": "13:00~22:30\t☀️【夜トナメ2,000円OFF券付き】FRUITS DAYTIME TOURNAMENT☀️",
+          "date": "10/03",
+          "rank": 1,
+          "total_entries": 10,
+          "points": 10.0
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "290622",
+      "nickname": "みわ",
+      "total_points": 38.7,
+      "count_1st": 0,
+      "best_score": 38.7,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 2,
+          "total_entries": 43,
+          "points": 38.7
         }
       ],
       "top_result_indices": [
@@ -82,25 +250,45 @@
       ]
     },
     {
-      "id": "557484",
-      "nickname": "りょー",
-      "total_points": 36.0,
+      "id": "299504",
+      "nickname": "˚. ✦. ˳·˖✶ ⋆. ✧̣̇˚. (*☻-☻*)ぶらん(*☻-☻*) ˚. ✦. ˳·˖✶ ⋆. ✧̣̇˚.",
+      "total_points": 28.5,
       "count_1st": 0,
-      "best_score": 36.0,
-      "appearances": 1,
+      "best_score": 21.5,
+      "appearances": 3,
       "results": [
         {
           "_index": 0,
-          "tournament_id": "2446835",
-          "tournament_name": "18:30~22:30\t【100％】🔥３Kギガスタック🔥【10万点】",
-          "date": "10/02",
-          "rank": 3,
-          "total_entries": 45,
-          "points": 36.0
+          "tournament_id": "2446853",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/01",
+          "rank": 12,
+          "total_entries": 25,
+          "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 6,
+          "total_entries": 43,
+          "points": 21.5
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2447092",
+          "tournament_name": "13:00~22:30\t☀️【夜トナメ2,000円OFF券付き】FRUITS DAYTIME TOURNAMENT☀️",
+          "date": "10/03",
+          "rank": 4,
+          "total_entries": 10,
+          "points": 7.0
         }
       ],
       "top_result_indices": [
-        0
+        0,
+        1,
+        2
       ]
     },
     {
@@ -126,12 +314,34 @@
       ]
     },
     {
+      "id": "460663",
+      "nickname": "jsks",
+      "total_points": 25.8,
+      "count_1st": 0,
+      "best_score": 25.8,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 5,
+          "total_entries": 43,
+          "points": 25.8
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
       "id": "259826",
       "nickname": "ゆーじ",
       "total_points": 25.0,
       "count_1st": 1,
       "best_score": 25.0,
-      "appearances": 1,
+      "appearances": 2,
       "results": [
         {
           "_index": 0,
@@ -141,10 +351,20 @@
           "rank": 1,
           "total_entries": 25,
           "points": 25.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 15,
+          "total_entries": 43,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
-        0
+        0,
+        1
       ]
     },
     {
@@ -175,7 +395,7 @@
       "total_points": 22.5,
       "count_1st": 0,
       "best_score": 22.5,
-      "appearances": 1,
+      "appearances": 2,
       "results": [
         {
           "_index": 0,
@@ -185,10 +405,20 @@
           "rank": 2,
           "total_entries": 25,
           "points": 22.5
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 21,
+          "total_entries": 43,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
-        0
+        0,
+        1
       ]
     },
     {
@@ -219,7 +449,7 @@
       "total_points": 17.5,
       "count_1st": 0,
       "best_score": 17.5,
-      "appearances": 2,
+      "appearances": 3,
       "results": [
         {
           "_index": 0,
@@ -238,11 +468,21 @@
           "rank": 14,
           "total_entries": 45,
           "points": 0.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2447092",
+          "tournament_name": "13:00~22:30\t☀️【夜トナメ2,000円OFF券付き】FRUITS DAYTIME TOURNAMENT☀️",
+          "date": "10/03",
+          "rank": 10,
+          "total_entries": 10,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
         0,
-        1
+        1,
+        2
       ]
     },
     {
@@ -268,6 +508,90 @@
       ]
     },
     {
+      "id": "380256",
+      "nickname": "技術のうち",
+      "total_points": 9.0,
+      "count_1st": 0,
+      "best_score": 9.0,
+      "appearances": 3,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446835",
+          "tournament_name": "18:30~22:30\t【100％】🔥３Kギガスタック🔥【10万点】",
+          "date": "10/02",
+          "rank": 8,
+          "total_entries": 45,
+          "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 9,
+          "total_entries": 43,
+          "points": 0.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2447092",
+          "tournament_name": "13:00~22:30\t☀️【夜トナメ2,000円OFF券付き】FRUITS DAYTIME TOURNAMENT☀️",
+          "date": "10/03",
+          "rank": 2,
+          "total_entries": 10,
+          "points": 9.0
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
+      "id": "628716",
+      "nickname": "かぐ",
+      "total_points": 5.0,
+      "count_1st": 0,
+      "best_score": 5.0,
+      "appearances": 3,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446853",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/01",
+          "rank": 9,
+          "total_entries": 25,
+          "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 13,
+          "total_entries": 43,
+          "points": 0.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2447092",
+          "tournament_name": "13:00~22:30\t☀️【夜トナメ2,000円OFF券付き】FRUITS DAYTIME TOURNAMENT☀️",
+          "date": "10/03",
+          "rank": 6,
+          "total_entries": 10,
+          "points": 5.0
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2
+      ]
+    },
+    {
       "id": "389247",
       "nickname": "おこったかんなー",
       "total_points": 0.0,
@@ -281,28 +605,6 @@
           "tournament_name": "18:30~22:30\t【100％】🔥３Kギガスタック🔥【10万点】",
           "date": "10/02",
           "rank": 7,
-          "total_entries": 45,
-          "points": 0.0
-        }
-      ],
-      "top_result_indices": [
-        0
-      ]
-    },
-    {
-      "id": "380256",
-      "nickname": "技術のうち",
-      "total_points": 0.0,
-      "count_1st": 0,
-      "best_score": 0.0,
-      "appearances": 1,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2446835",
-          "tournament_name": "18:30~22:30\t【100％】🔥３Kギガスタック🔥【10万点】",
-          "date": "10/02",
-          "rank": 8,
           "total_entries": 45,
           "points": 0.0
         }
@@ -383,7 +685,7 @@
       "total_points": 0.0,
       "count_1st": 0,
       "best_score": 0.0,
-      "appearances": 1,
+      "appearances": 2,
       "results": [
         {
           "_index": 0,
@@ -393,10 +695,20 @@
           "rank": 12,
           "total_entries": 45,
           "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 22,
+          "total_entries": 43,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
-        0
+        0,
+        1
       ]
     },
     {
@@ -459,7 +771,7 @@
       "total_points": 0.0,
       "count_1st": 0,
       "best_score": 0.0,
-      "appearances": 1,
+      "appearances": 2,
       "results": [
         {
           "_index": 0,
@@ -469,10 +781,20 @@
           "rank": 16,
           "total_entries": 45,
           "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 10,
+          "total_entries": 43,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
-        0
+        0,
+        1
       ]
     },
     {
@@ -674,34 +996,12 @@
       ]
     },
     {
-      "id": "628716",
-      "nickname": "かぐ",
-      "total_points": 0.0,
-      "count_1st": 0,
-      "best_score": 0.0,
-      "appearances": 1,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2446853",
-          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
-          "date": "10/01",
-          "rank": 9,
-          "total_entries": 25,
-          "points": 0.0
-        }
-      ],
-      "top_result_indices": [
-        0
-      ]
-    },
-    {
       "id": "467714",
       "nickname": "ドンクーコング",
       "total_points": 0.0,
       "count_1st": 0,
       "best_score": 0.0,
-      "appearances": 1,
+      "appearances": 2,
       "results": [
         {
           "_index": 0,
@@ -711,54 +1011,20 @@
           "rank": 10,
           "total_entries": 25,
           "points": 0.0
-        }
-      ],
-      "top_result_indices": [
-        0
-      ]
-    },
-    {
-      "id": "428363",
-      "nickname": "なっかひら",
-      "total_points": 0.0,
-      "count_1st": 0,
-      "best_score": 0.0,
-      "appearances": 1,
-      "results": [
+        },
         {
-          "_index": 0,
-          "tournament_id": "2446853",
-          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
-          "date": "10/01",
-          "rank": 11,
-          "total_entries": 25,
+          "_index": 1,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 23,
+          "total_entries": 43,
           "points": 0.0
         }
       ],
       "top_result_indices": [
-        0
-      ]
-    },
-    {
-      "id": "299504",
-      "nickname": "˚. ✦. ˳·˖✶ ⋆. ✧̣̇˚. (*☻-☻*)ぶらん(*☻-☻*) ˚. ✦. ˳·˖✶ ⋆. ✧̣̇˚.",
-      "total_points": 0.0,
-      "count_1st": 0,
-      "best_score": 0.0,
-      "appearances": 1,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2446853",
-          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
-          "date": "10/01",
-          "rank": 12,
-          "total_entries": 25,
-          "points": 0.0
-        }
-      ],
-      "top_result_indices": [
-        0
+        0,
+        1
       ]
     },
     {
@@ -776,6 +1042,258 @@
           "date": "10/01",
           "rank": 13,
           "total_entries": 25,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "140805",
+      "nickname": "マサト",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 8,
+          "total_entries": 43,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "440522",
+      "nickname": "Neet",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 11,
+          "total_entries": 43,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "455640",
+      "nickname": "つよし",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 12,
+          "total_entries": 43,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "604321",
+      "nickname": "しずか",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 14,
+          "total_entries": 43,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "236269",
+      "nickname": "わっきー",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 16,
+          "total_entries": 43,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "576667",
+      "nickname": "札幌 サト",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 17,
+          "total_entries": 43,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "411213",
+      "nickname": "心太",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 18,
+          "total_entries": 43,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "55267",
+      "nickname": "たそ",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 19,
+          "total_entries": 43,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "311490",
+      "nickname": "コラショ",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 2,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 20,
+          "total_entries": 43,
+          "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2447092",
+          "tournament_name": "13:00~22:30\t☀️【夜トナメ2,000円OFF券付き】FRUITS DAYTIME TOURNAMENT☀️",
+          "date": "10/03",
+          "rank": 7,
+          "total_entries": 10,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1
+      ]
+    },
+    {
+      "id": "415467",
+      "nickname": "きむ",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 24,
+          "total_entries": 43,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0
+      ]
+    },
+    {
+      "id": "435758",
+      "nickname": "くら",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2447092",
+          "tournament_name": "13:00~22:30\t☀️【夜トナメ2,000円OFF券付き】FRUITS DAYTIME TOURNAMENT☀️",
+          "date": "10/03",
+          "rank": 9,
+          "total_entries": 10,
           "points": 0.0
         }
       ],
