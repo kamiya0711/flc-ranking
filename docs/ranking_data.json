@@ -1,5 +1,5 @@
 {
-  "calc_date": "2026年10月13日",
+  "calc_date": "2026年10月14日",
   "season_start": "10/01～12/31",
   "season_number": 3,
   "top_n_results": 10,
@@ -150,7 +150,7 @@
       "total_points": 165.7,
       "count_1st": 1,
       "best_score": 65.0,
-      "appearances": 12,
+      "appearances": 13,
       "results": [
         {
           "_index": 0,
@@ -259,6 +259,15 @@
           "rank": 7,
           "total_entries": 33,
           "points": 0.0
+        },
+        {
+          "_index": 12,
+          "tournament_id": "2446816",
+          "tournament_name": "18:30~21:30\t🏆🍎🍇第２回 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
+          "date": "10/14",
+          "rank": 11,
+          "total_entries": 18,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
@@ -267,11 +276,11 @@
         3,
         4,
         5,
-        6,
         7,
         8,
         9,
-        11
+        11,
+        12
       ]
     },
     {
@@ -352,7 +361,7 @@
       "total_points": 112.8,
       "count_1st": 1,
       "best_score": 69.0,
-      "appearances": 7,
+      "appearances": 8,
       "results": [
         {
           "_index": 0,
@@ -416,6 +425,15 @@
           "rank": 12,
           "total_entries": 33,
           "points": 0.0
+        },
+        {
+          "_index": 7,
+          "tournament_id": "2446816",
+          "tournament_name": "18:30~21:30\t🏆🍎🍇第２回 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
+          "date": "10/14",
+          "rank": 9,
+          "total_entries": 18,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
@@ -425,7 +443,8 @@
         3,
         4,
         5,
-        6
+        6,
+        7
       ]
     },
     {
@@ -580,6 +599,78 @@
         6,
         7,
         8
+      ]
+    },
+    {
+      "id": "158652",
+      "nickname": "オデン",
+      "total_points": 91.8,
+      "count_1st": 0,
+      "best_score": 52.0,
+      "appearances": 6,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446865",
+          "tournament_name": "18:30~22:30\t🔥２Kゲリラトナメ🔥",
+          "date": "10/05",
+          "rank": 3,
+          "total_entries": 34,
+          "points": 27.2
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2446855",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/06",
+          "rank": 14,
+          "total_entries": 31,
+          "points": 0.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2446815",
+          "tournament_name": "18:30~21:30\t🏆🍎🍇第２回 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
+          "date": "10/08",
+          "rank": 7,
+          "total_entries": 23,
+          "points": 0.0
+        },
+        {
+          "_index": 3,
+          "tournament_id": "2446882",
+          "tournament_name": "17:30~20:30\t【２位まで保証】Switch 2 トーナメント",
+          "date": "10/11",
+          "rank": 3,
+          "total_entries": 65,
+          "points": 52.0
+        },
+        {
+          "_index": 4,
+          "tournament_id": "2446876",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/12",
+          "rank": 11,
+          "total_entries": 69,
+          "points": 0.0
+        },
+        {
+          "_index": 5,
+          "tournament_id": "2446816",
+          "tournament_name": "18:30~21:30\t🏆🍎🍇第２回 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
+          "date": "10/14",
+          "rank": 4,
+          "total_entries": 18,
+          "points": 12.6
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
       ]
     },
     {
@@ -849,68 +940,6 @@
       ]
     },
     {
-      "id": "158652",
-      "nickname": "オデン",
-      "total_points": 79.2,
-      "count_1st": 0,
-      "best_score": 52.0,
-      "appearances": 5,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2446865",
-          "tournament_name": "18:30~22:30\t🔥２Kゲリラトナメ🔥",
-          "date": "10/05",
-          "rank": 3,
-          "total_entries": 34,
-          "points": 27.2
-        },
-        {
-          "_index": 1,
-          "tournament_id": "2446855",
-          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
-          "date": "10/06",
-          "rank": 14,
-          "total_entries": 31,
-          "points": 0.0
-        },
-        {
-          "_index": 2,
-          "tournament_id": "2446815",
-          "tournament_name": "18:30~21:30\t🏆🍎🍇第２回 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
-          "date": "10/08",
-          "rank": 7,
-          "total_entries": 23,
-          "points": 0.0
-        },
-        {
-          "_index": 3,
-          "tournament_id": "2446882",
-          "tournament_name": "17:30~20:30\t【２位まで保証】Switch 2 トーナメント",
-          "date": "10/11",
-          "rank": 3,
-          "total_entries": 65,
-          "points": 52.0
-        },
-        {
-          "_index": 4,
-          "tournament_id": "2446876",
-          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
-          "date": "10/12",
-          "rank": 11,
-          "total_entries": 69,
-          "points": 0.0
-        }
-      ],
-      "top_result_indices": [
-        0,
-        1,
-        2,
-        3,
-        4
-      ]
-    },
-    {
       "id": "389248",
       "nickname": "すなこ",
       "total_points": 77.2,
@@ -1008,7 +1037,7 @@
       "total_points": 77.0,
       "count_1st": 0,
       "best_score": 23.0,
-      "appearances": 5,
+      "appearances": 6,
       "results": [
         {
           "_index": 0,
@@ -1054,6 +1083,15 @@
           "rank": 5,
           "total_entries": 33,
           "points": 19.8
+        },
+        {
+          "_index": 5,
+          "tournament_id": "2446816",
+          "tournament_name": "18:30~21:30\t🏆🍎🍇第２回 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
+          "date": "10/14",
+          "rank": 7,
+          "total_entries": 18,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
@@ -1061,7 +1099,162 @@
         1,
         2,
         3,
-        4
+        4,
+        5
+      ]
+    },
+    {
+      "id": "412854",
+      "nickname": "しの",
+      "total_points": 72.6,
+      "count_1st": 1,
+      "best_score": 34.0,
+      "appearances": 7,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2442284",
+          "tournament_name": "Lvs : 21 / 時間 :11h15m\tx / Lv16 / x",
+          "date": "10/04",
+          "rank": 2,
+          "total_entries": 18,
+          "points": 16.2
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2446865",
+          "tournament_name": "18:30~22:30\t🔥２Kゲリラトナメ🔥",
+          "date": "10/05",
+          "rank": 1,
+          "total_entries": 34,
+          "points": 34.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2447097",
+          "tournament_name": "13:00~16:00\t☀️【夜トナメ2,000円OFF券付き】FRUITS DAYTIME TOURNAMENT☀️",
+          "date": "10/10",
+          "rank": 6,
+          "total_entries": 16,
+          "points": 8.0
+        },
+        {
+          "_index": 3,
+          "tournament_id": "2447098",
+          "tournament_name": "17:30~20:30\t🔥🔥【激アツ】ゲリラトーナメント🔥🔥",
+          "date": "10/10",
+          "rank": 18,
+          "total_entries": 43,
+          "points": 0.0
+        },
+        {
+          "_index": 4,
+          "tournament_id": "2446876",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/12",
+          "rank": 9,
+          "total_entries": 69,
+          "points": 0.0
+        },
+        {
+          "_index": 5,
+          "tournament_id": "2446839",
+          "tournament_name": "18:30~21:30\t🍖🍣🌾 選べる豪華グルメカップ 🌾🍣🍖",
+          "date": "10/13",
+          "rank": 9,
+          "total_entries": 33,
+          "points": 0.0
+        },
+        {
+          "_index": 6,
+          "tournament_id": "2446816",
+          "tournament_name": "18:30~21:30\t🏆🍎🍇第２回 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
+          "date": "10/14",
+          "rank": 3,
+          "total_entries": 18,
+          "points": 14.4
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ]
+    },
+    {
+      "id": "157854",
+      "nickname": "シブコ",
+      "total_points": 66.1,
+      "count_1st": 0,
+      "best_score": 27.6,
+      "appearances": 6,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446853",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/01",
+          "rank": 6,
+          "total_entries": 25,
+          "points": 12.5
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2442284",
+          "tournament_name": "Lvs : 21 / 時間 :11h15m\tx / Lv16 / x",
+          "date": "10/04",
+          "rank": 7,
+          "total_entries": 18,
+          "points": 0.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2446828",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/04",
+          "rank": 5,
+          "total_entries": 46,
+          "points": 27.6
+        },
+        {
+          "_index": 3,
+          "tournament_id": "2446865",
+          "tournament_name": "18:30~22:30\t🔥２Kゲリラトナメ🔥",
+          "date": "10/05",
+          "rank": 10,
+          "total_entries": 34,
+          "points": 0.0
+        },
+        {
+          "_index": 4,
+          "tournament_id": "2446848",
+          "tournament_name": "18:30~21:30\t【100％】🔥３Kギガスタック🔥【10万点】",
+          "date": "10/07",
+          "rank": 6,
+          "total_entries": 34,
+          "points": 17.0
+        },
+        {
+          "_index": 5,
+          "tournament_id": "2446816",
+          "tournament_name": "18:30~21:30\t🏆🍎🍇第２回 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
+          "date": "10/14",
+          "rank": 6,
+          "total_entries": 18,
+          "points": 9.0
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
       ]
     },
     {
@@ -1191,66 +1384,66 @@
       ]
     },
     {
-      "id": "412854",
-      "nickname": "しの",
-      "total_points": 58.2,
-      "count_1st": 1,
-      "best_score": 34.0,
+      "id": "580342",
+      "nickname": "issa",
+      "total_points": 58.0,
+      "count_1st": 2,
+      "best_score": 31.0,
       "appearances": 6,
       "results": [
         {
           "_index": 0,
-          "tournament_id": "2442284",
-          "tournament_name": "Lvs : 21 / 時間 :11h15m\tx / Lv16 / x",
-          "date": "10/04",
-          "rank": 2,
-          "total_entries": 18,
-          "points": 16.2
+          "tournament_id": "2446853",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/01",
+          "rank": 14,
+          "total_entries": 25,
+          "points": 0.0
         },
         {
           "_index": 1,
-          "tournament_id": "2446865",
-          "tournament_name": "18:30~22:30\t🔥２Kゲリラトナメ🔥",
-          "date": "10/05",
-          "rank": 1,
-          "total_entries": 34,
-          "points": 34.0
+          "tournament_id": "2446835",
+          "tournament_name": "18:30~22:30\t【100％】🔥３Kギガスタック🔥【10万点】",
+          "date": "10/02",
+          "rank": 15,
+          "total_entries": 45,
+          "points": 0.0
         },
         {
           "_index": 2,
-          "tournament_id": "2447097",
-          "tournament_name": "13:00~16:00\t☀️【夜トナメ2,000円OFF券付き】FRUITS DAYTIME TOURNAMENT☀️",
-          "date": "10/10",
-          "rank": 6,
-          "total_entries": 16,
-          "points": 8.0
+          "tournament_id": "2446855",
+          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
+          "date": "10/06",
+          "rank": 1,
+          "total_entries": 31,
+          "points": 31.0
         },
         {
           "_index": 3,
+          "tournament_id": "2446872",
+          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
+          "date": "10/09",
+          "rank": 6,
+          "total_entries": 18,
+          "points": 9.0
+        },
+        {
+          "_index": 4,
           "tournament_id": "2447098",
           "tournament_name": "17:30~20:30\t🔥🔥【激アツ】ゲリラトーナメント🔥🔥",
           "date": "10/10",
-          "rank": 18,
+          "rank": 12,
           "total_entries": 43,
           "points": 0.0
         },
         {
-          "_index": 4,
-          "tournament_id": "2446876",
-          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
-          "date": "10/12",
-          "rank": 9,
-          "total_entries": 69,
-          "points": 0.0
-        },
-        {
           "_index": 5,
-          "tournament_id": "2446839",
-          "tournament_name": "18:30~21:30\t🍖🍣🌾 選べる豪華グルメカップ 🌾🍣🍖",
-          "date": "10/13",
-          "rank": 9,
-          "total_entries": 33,
-          "points": 0.0
+          "tournament_id": "2446816",
+          "tournament_name": "18:30~21:30\t🏆🍎🍇第２回 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
+          "date": "10/14",
+          "rank": 1,
+          "total_entries": 18,
+          "points": 18.0
         }
       ],
       "top_result_indices": [
@@ -1332,68 +1525,6 @@
         3,
         4,
         5
-      ]
-    },
-    {
-      "id": "157854",
-      "nickname": "シブコ",
-      "total_points": 57.1,
-      "count_1st": 0,
-      "best_score": 27.6,
-      "appearances": 5,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2446853",
-          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
-          "date": "10/01",
-          "rank": 6,
-          "total_entries": 25,
-          "points": 12.5
-        },
-        {
-          "_index": 1,
-          "tournament_id": "2442284",
-          "tournament_name": "Lvs : 21 / 時間 :11h15m\tx / Lv16 / x",
-          "date": "10/04",
-          "rank": 7,
-          "total_entries": 18,
-          "points": 0.0
-        },
-        {
-          "_index": 2,
-          "tournament_id": "2446828",
-          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
-          "date": "10/04",
-          "rank": 5,
-          "total_entries": 46,
-          "points": 27.6
-        },
-        {
-          "_index": 3,
-          "tournament_id": "2446865",
-          "tournament_name": "18:30~22:30\t🔥２Kゲリラトナメ🔥",
-          "date": "10/05",
-          "rank": 10,
-          "total_entries": 34,
-          "points": 0.0
-        },
-        {
-          "_index": 4,
-          "tournament_id": "2446848",
-          "tournament_name": "18:30~21:30\t【100％】🔥３Kギガスタック🔥【10万点】",
-          "date": "10/07",
-          "rank": 6,
-          "total_entries": 34,
-          "points": 17.0
-        }
-      ],
-      "top_result_indices": [
-        0,
-        1,
-        2,
-        3,
-        4
       ]
     },
     {
@@ -1547,57 +1678,75 @@
       ]
     },
     {
-      "id": "580342",
-      "nickname": "issa",
-      "total_points": 40.0,
-      "count_1st": 1,
-      "best_score": 31.0,
-      "appearances": 5,
+      "id": "299504",
+      "nickname": "˚. ✦. ˳·˖✶ ⋆. ✧̣̇˚. (*☻-",
+      "total_points": 39.3,
+      "count_1st": 0,
+      "best_score": 21.5,
+      "appearances": 7,
       "results": [
         {
           "_index": 0,
           "tournament_id": "2446853",
           "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
           "date": "10/01",
-          "rank": 14,
+          "rank": 12,
           "total_entries": 25,
           "points": 0.0
         },
         {
           "_index": 1,
-          "tournament_id": "2446835",
-          "tournament_name": "18:30~22:30\t【100％】🔥３Kギガスタック🔥【10万点】",
-          "date": "10/02",
-          "rank": 15,
-          "total_entries": 45,
-          "points": 0.0
+          "tournament_id": "2446875",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/03",
+          "rank": 6,
+          "total_entries": 43,
+          "points": 21.5
         },
         {
           "_index": 2,
-          "tournament_id": "2446855",
-          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
-          "date": "10/06",
-          "rank": 1,
-          "total_entries": 31,
-          "points": 31.0
+          "tournament_id": "2447092",
+          "tournament_name": "13:00~22:30\t☀️【夜トナメ2,000円OFF券付き】FRUITS DAYTIME TOURNAMENT☀️",
+          "date": "10/03",
+          "rank": 4,
+          "total_entries": 10,
+          "points": 7.0
         },
         {
           "_index": 3,
-          "tournament_id": "2446872",
-          "tournament_name": "--\tメガスタ5万 平日18.30-21時",
-          "date": "10/09",
-          "rank": 6,
-          "total_entries": 18,
-          "points": 9.0
+          "tournament_id": "2446815",
+          "tournament_name": "18:30~21:30\t🏆🍎🍇第２回 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
+          "date": "10/08",
+          "rank": 8,
+          "total_entries": 23,
+          "points": 0.0
         },
         {
           "_index": 4,
-          "tournament_id": "2447098",
-          "tournament_name": "17:30~20:30\t🔥🔥【激アツ】ゲリラトーナメント🔥🔥",
-          "date": "10/10",
-          "rank": 12,
-          "total_entries": 43,
+          "tournament_id": "2446882",
+          "tournament_name": "17:30~20:30\t【２位まで保証】Switch 2 トーナメント",
+          "date": "10/11",
+          "rank": 9,
+          "total_entries": 65,
           "points": 0.0
+        },
+        {
+          "_index": 5,
+          "tournament_id": "2446876",
+          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
+          "date": "10/12",
+          "rank": 14,
+          "total_entries": 69,
+          "points": 0.0
+        },
+        {
+          "_index": 6,
+          "tournament_id": "2446816",
+          "tournament_name": "18:30~21:30\t🏆🍎🍇第２回 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
+          "date": "10/14",
+          "rank": 5,
+          "total_entries": 18,
+          "points": 10.8
         }
       ],
       "top_result_indices": [
@@ -1605,7 +1754,9 @@
         1,
         2,
         3,
-        4
+        4,
+        5,
+        6
       ]
     },
     {
@@ -1950,7 +2101,7 @@
       "total_points": 30.5,
       "count_1st": 0,
       "best_score": 16.1,
-      "appearances": 10,
+      "appearances": 11,
       "results": [
         {
           "_index": 0,
@@ -2041,6 +2192,15 @@
           "rank": 8,
           "total_entries": 20,
           "points": 0.0
+        },
+        {
+          "_index": 10,
+          "tournament_id": "2446816",
+          "tournament_name": "18:30~21:30\t🏆🍎🍇第２回 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
+          "date": "10/14",
+          "rank": 8,
+          "total_entries": 18,
+          "points": 0.0
         }
       ],
       "top_result_indices": [
@@ -2049,11 +2209,11 @@
         2,
         3,
         4,
-        5,
         6,
         7,
         8,
-        9
+        9,
+        10
       ]
     },
     {
@@ -2128,78 +2288,6 @@
       ],
       "top_result_indices": [
         0
-      ]
-    },
-    {
-      "id": "299504",
-      "nickname": "˚. ✦. ˳·˖✶ ⋆. ✧̣̇˚. (*☻-",
-      "total_points": 28.5,
-      "count_1st": 0,
-      "best_score": 21.5,
-      "appearances": 6,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2446853",
-          "tournament_name": "18:30~21:30\t🔥【100% Deep Stackトーナメント】🔥【2K】",
-          "date": "10/01",
-          "rank": 12,
-          "total_entries": 25,
-          "points": 0.0
-        },
-        {
-          "_index": 1,
-          "tournament_id": "2446875",
-          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
-          "date": "10/03",
-          "rank": 6,
-          "total_entries": 43,
-          "points": 21.5
-        },
-        {
-          "_index": 2,
-          "tournament_id": "2447092",
-          "tournament_name": "13:00~22:30\t☀️【夜トナメ2,000円OFF券付き】FRUITS DAYTIME TOURNAMENT☀️",
-          "date": "10/03",
-          "rank": 4,
-          "total_entries": 10,
-          "points": 7.0
-        },
-        {
-          "_index": 3,
-          "tournament_id": "2446815",
-          "tournament_name": "18:30~21:30\t🏆🍎🍇第２回 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
-          "date": "10/08",
-          "rank": 8,
-          "total_entries": 23,
-          "points": 0.0
-        },
-        {
-          "_index": 4,
-          "tournament_id": "2446882",
-          "tournament_name": "17:30~20:30\t【２位まで保証】Switch 2 トーナメント",
-          "date": "10/11",
-          "rank": 9,
-          "total_entries": 65,
-          "points": 0.0
-        },
-        {
-          "_index": 5,
-          "tournament_id": "2446876",
-          "tournament_name": "17:30~20:30\t【３位まで保証】🏰ディズニーペアチケットトーナメント🏰【３Ｋ】",
-          "date": "10/12",
-          "rank": 14,
-          "total_entries": 69,
-          "points": 0.0
-        }
-      ],
-      "top_result_indices": [
-        0,
-        1,
-        2,
-        3,
-        4,
-        5
       ]
     },
     {
@@ -2562,6 +2650,28 @@
         0,
         1,
         2
+      ]
+    },
+    {
+      "id": "242791",
+      "nickname": "okachang",
+      "total_points": 16.2,
+      "count_1st": 0,
+      "best_score": 16.2,
+      "appearances": 1,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446816",
+          "tournament_name": "18:30~21:30\t🏆🍎🍇第２回 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
+          "date": "10/14",
+          "rank": 2,
+          "total_entries": 18,
+          "points": 16.2
+        }
+      ],
+      "top_result_indices": [
+        0
       ]
     },
     {
@@ -3035,6 +3145,68 @@
       ]
     },
     {
+      "id": "396384",
+      "nickname": "《大吾》",
+      "total_points": 0.0,
+      "count_1st": 0,
+      "best_score": 0.0,
+      "appearances": 5,
+      "results": [
+        {
+          "_index": 0,
+          "tournament_id": "2446865",
+          "tournament_name": "18:30~22:30\t🔥２Kゲリラトナメ🔥",
+          "date": "10/05",
+          "rank": 15,
+          "total_entries": 34,
+          "points": 0.0
+        },
+        {
+          "_index": 1,
+          "tournament_id": "2446848",
+          "tournament_name": "18:30~21:30\t【100％】🔥３Kギガスタック🔥【10万点】",
+          "date": "10/07",
+          "rank": 11,
+          "total_entries": 34,
+          "points": 0.0
+        },
+        {
+          "_index": 2,
+          "tournament_id": "2447097",
+          "tournament_name": "13:00~16:00\t☀️【夜トナメ2,000円OFF券付き】FRUITS DAYTIME TOURNAMENT☀️",
+          "date": "10/10",
+          "rank": 11,
+          "total_entries": 16,
+          "points": 0.0
+        },
+        {
+          "_index": 3,
+          "tournament_id": "2447098",
+          "tournament_name": "17:30~20:30\t🔥🔥【激アツ】ゲリラトーナメント🔥🔥",
+          "date": "10/10",
+          "rank": 14,
+          "total_entries": 43,
+          "points": 0.0
+        },
+        {
+          "_index": 4,
+          "tournament_id": "2446816",
+          "tournament_name": "18:30~21:30\t🏆🍎🍇第２回 頂上決戦代表サテライト【越谷店vs松戸店】 🍇🍎🏆",
+          "date": "10/14",
+          "rank": 10,
+          "total_entries": 18,
+          "points": 0.0
+        }
+      ],
+      "top_result_indices": [
+        0,
+        1,
+        2,
+        3,
+        4
+      ]
+    },
+    {
       "id": "529117",
       "nickname": "Yusuke",
       "total_points": 0.0,
@@ -3388,58 +3560,6 @@
       "top_result_indices": [
         0,
         1
-      ]
-    },
-    {
-      "id": "396384",
-      "nickname": "《大吾》",
-      "total_points": 0.0,
-      "count_1st": 0,
-      "best_score": 0.0,
-      "appearances": 4,
-      "results": [
-        {
-          "_index": 0,
-          "tournament_id": "2446865",
-          "tournament_name": "18:30~22:30\t🔥２Kゲリラトナメ🔥",
-          "date": "10/05",
-          "rank": 15,
-          "total_entries": 34,
-          "points": 0.0
-        },
-        {
-          "_index": 1,
-          "tournament_id": "2446848",
-          "tournament_name": "18:30~21:30\t【100％】🔥３Kギガスタック🔥【10万点】",
-          "date": "10/07",
-          "rank": 11,
-          "total_entries": 34,
-          "points": 0.0
-        },
-        {
-          "_index": 2,
-          "tournament_id": "2447097",
-          "tournament_name": "13:00~16:00\t☀️【夜トナメ2,000円OFF券付き】FRUITS DAYTIME TOURNAMENT☀️",
-          "date": "10/10",
-          "rank": 11,
-          "total_entries": 16,
-          "points": 0.0
-        },
-        {
-          "_index": 3,
-          "tournament_id": "2447098",
-          "tournament_name": "17:30~20:30\t🔥🔥【激アツ】ゲリラトーナメント🔥🔥",
-          "date": "10/10",
-          "rank": 14,
-          "total_entries": 43,
-          "points": 0.0
-        }
-      ],
-      "top_result_indices": [
-        0,
-        1,
-        2,
-        3
       ]
     },
     {
